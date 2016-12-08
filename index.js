@@ -1,13 +1,12 @@
 'use strict';
 
-const _ = require('lodash');
+var _ = require('lodash');
 
-const countries = require('./data/countries.json');
+var countries = require('./data/countries.json');
 
-const toExport = {
-  JSON: countries,
+var toExport = {
+  JSON: countries
 };
-
 
 /**
  * Find the country object of the given country name
@@ -19,10 +18,11 @@ const toExport = {
 function getCountryByName(name, useAlias) {
   if (!_.isString(name)) return undefined;
 
-  return _.find(countries, (country) => {
+  return _.find(countries, function (country) {
     if (useAlias) {
-      return country.name.toUpperCase() === name.toUpperCase()
-        ||  _.find(country.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
+      return country.name.toUpperCase() === name.toUpperCase() || _.find(country.alias, function (alias) {
+        return alias.toUpperCase() === name.toUpperCase();
+      });
     }
     return country.name.toUpperCase() === name.toUpperCase();
   });
@@ -30,7 +30,6 @@ function getCountryByName(name, useAlias) {
 
 toExport.getCountryByName = getCountryByName;
 toExport.findCountryByName = getCountryByName;
-
 
 /**
  * Find the province object of the given province name
@@ -42,10 +41,11 @@ toExport.findCountryByName = getCountryByName;
 function getProvinceByName(name, useAlias) {
   if (!_.isString(name) || !_.isArray(this.provinces)) return undefined;
 
-  return _.find(this.provinces, (province) => {
+  return _.find(this.provinces, function (province) {
     if (useAlias) {
-      return province.name.toUpperCase() === name.toUpperCase()
-        ||  _.find(province.alias, (alias) => (alias.toUpperCase() === name.toUpperCase()));
+      return province.name.toUpperCase() === name.toUpperCase() || _.find(province.alias, function (alias) {
+        return alias.toUpperCase() === name.toUpperCase();
+      });
     }
     return province.name.toUpperCase() === name.toUpperCase();
   });
@@ -55,8 +55,8 @@ function getProvinceByName(name, useAlias) {
  * 
  * Add search function to each country and map each country by alpha2
  */
-const listCountries = _.keyBy(_.cloneDeep(countries), 'alpha2');
-_.forEach(listCountries, (country, key) => {
+var listCountries = _.keyBy(_.cloneDeep(countries), 'alpha2');
+_.forEach(listCountries, function (country, key) {
   country.getProvinceByName = _.bind(getProvinceByName, country);
   country.findProvinceByName = _.bind(getProvinceByName, country);
   toExport[key] = country;

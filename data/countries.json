@@ -2,16 +2,10 @@
   {
     "alpha2": "AC",
     "alpha3": "",
-    "countryCallingCodes": [
-      "+247"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+247"],
+    "currencies": ["USD"],
     "ioc": "SHP",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Ascension Island",
     "status": "reserved",
     "provinces": null,
@@ -20,16 +14,10 @@
   {
     "alpha2": "AD",
     "alpha3": "AND",
-    "countryCallingCodes": [
-      "+376"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+376"],
+    "currencies": ["EUR"],
     "ioc": "AND",
-    "languages": [
-      "cat"
-    ],
+    "languages": ["cat"],
     "name": "Andorra",
     "status": "assigned",
     "provinces": null,
@@ -38,16 +26,10 @@
   {
     "alpha2": "AE",
     "alpha3": "ARE",
-    "countryCallingCodes": [
-      "+971"
-    ],
-    "currencies": [
-      "AED"
-    ],
+    "countryCallingCodes": ["+971"],
+    "currencies": ["AED"],
     "ioc": "UAE",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "United Arab Emirates",
     "status": "assigned",
     "provinces": null,
@@ -56,16 +38,10 @@
   {
     "alpha2": "AF",
     "alpha3": "AFG",
-    "countryCallingCodes": [
-      "+93"
-    ],
-    "currencies": [
-      "AFN"
-    ],
+    "countryCallingCodes": ["+93"],
+    "currencies": ["AFN"],
     "ioc": "AFG",
-    "languages": [
-      "pus"
-    ],
+    "languages": ["pus"],
     "name": "Afghanistan",
     "status": "assigned",
     "provinces": null,
@@ -74,16 +50,10 @@
   {
     "alpha2": "AG",
     "alpha3": "ATG",
-    "countryCallingCodes": [
-      "+1 268"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+1 268"],
+    "currencies": ["XCD"],
     "ioc": "ANT",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Antigua And Barbuda",
     "status": "assigned",
     "provinces": null,
@@ -92,16 +62,10 @@
   {
     "alpha2": "AI",
     "alpha3": "AIA",
-    "countryCallingCodes": [
-      "+1 264"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+1 264"],
+    "currencies": ["XCD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Anguilla",
     "status": "assigned",
     "provinces": null,
@@ -122,16 +86,10 @@
   {
     "alpha2": "AL",
     "alpha3": "ALB",
-    "countryCallingCodes": [
-      "+355"
-    ],
-    "currencies": [
-      "ALL"
-    ],
+    "countryCallingCodes": ["+355"],
+    "currencies": ["ALL"],
     "ioc": "ALB",
-    "languages": [
-      "sqi"
-    ],
+    "languages": ["sqi"],
     "name": "Albania",
     "status": "assigned",
     "provinces": null,
@@ -140,17 +98,10 @@
   {
     "alpha2": "AM",
     "alpha3": "ARM",
-    "countryCallingCodes": [
-      "+374"
-    ],
-    "currencies": [
-      "AMD"
-    ],
+    "countryCallingCodes": ["+374"],
+    "currencies": ["AMD"],
     "ioc": "ARM",
-    "languages": [
-      "hye",
-      "rus"
-    ],
+    "languages": ["hye", "rus"],
     "name": "Armenia",
     "status": "assigned",
     "provinces": null,
@@ -171,16 +122,10 @@
   {
     "alpha2": "AO",
     "alpha3": "AGO",
-    "countryCallingCodes": [
-      "+244"
-    ],
-    "currencies": [
-      "AOA"
-    ],
+    "countryCallingCodes": ["+244"],
+    "currencies": ["AOA"],
     "ioc": "ANG",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "Angola",
     "status": "assigned",
     "provinces": null,
@@ -189,9 +134,7 @@
   {
     "alpha2": "AQ",
     "alpha3": "ATA",
-    "countryCallingCodes": [
-      "+672"
-    ],
+    "countryCallingCodes": ["+672"],
     "currencies": [],
     "ioc": "",
     "languages": [],
@@ -203,24 +146,16 @@
   {
     "alpha2": "AR",
     "alpha3": "ARG",
-    "countryCallingCodes": [
-      "+54"
-    ],
-    "currencies": [
-      "ARS"
-    ],
+    "countryCallingCodes": ["+54"],
+    "currencies": ["ARS"],
     "ioc": "ARG",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Argentina",
     "status": "assigned",
     "provinces": [
       {
         "name": "Ciudad Autónoma de Buenos Aires",
-        "alias": [
-          "Ciudad Autonoma de Buenos Aires"
-        ]
+        "alias": ["Ciudad Autonoma de Buenos Aires"]
       },
       {
         "name": "Buenos Aires",
@@ -240,9 +175,7 @@
       },
       {
         "name": "Córdoba",
-        "alias": [
-          "Cordoba"
-        ]
+        "alias": ["Cordoba"]
       },
       {
         "name": "Corrientes",
@@ -250,9 +183,7 @@
       },
       {
         "name": "Entre Ríos",
-        "alias": [
-          "Entre Rios"
-        ]
+        "alias": ["Entre Rios"]
       },
       {
         "name": "Formosa",
@@ -280,15 +211,11 @@
       },
       {
         "name": "Neuquén",
-        "alias": [
-          "Neuquen"
-        ]
+        "alias": ["Neuquen"]
       },
       {
         "name": "Río Negro",
-        "alias": [
-          "Rio Negro"
-        ]
+        "alias": ["Rio Negro"]
       },
       {
         "name": "Salta",
@@ -316,15 +243,11 @@
       },
       {
         "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
-        "alias": [
-          "Tierra del Fuego, Antartida e Islas del Atlantico Sur"
-        ]
+        "alias": ["Tierra del Fuego, Antartida e Islas del Atlantico Sur"]
       },
       {
         "name": "Tucumán",
-        "alias": [
-          "Tucuman"
-        ]
+        "alias": ["Tucuman"]
       }
     ],
     "alias": null
@@ -332,17 +255,10 @@
   {
     "alpha2": "AS",
     "alpha3": "ASM",
-    "countryCallingCodes": [
-      "+1 684"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1 684"],
+    "currencies": ["USD"],
     "ioc": "ASA",
-    "languages": [
-      "eng",
-      "smo"
-    ],
+    "languages": ["eng", "smo"],
     "name": "American Samoa",
     "status": "assigned",
     "provinces": null,
@@ -351,16 +267,10 @@
   {
     "alpha2": "AT",
     "alpha3": "AUT",
-    "countryCallingCodes": [
-      "+43"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+43"],
+    "currencies": ["EUR"],
     "ioc": "AUT",
-    "languages": [
-      "deu"
-    ],
+    "languages": ["deu"],
     "name": "Austria",
     "status": "assigned",
     "provinces": [
@@ -372,23 +282,17 @@
       {
         "short": "K",
         "name": "Kärnten",
-        "alias": [
-          "Karnten"
-        ]
+        "alias": ["Karnten"]
       },
       {
         "short": "NÖ",
         "name": "Niederösterreich",
-        "alias": [
-          "Niederosterreich"
-        ]
+        "alias": ["Niederosterreich"]
       },
       {
         "short": "OÖ",
         "name": "Oberösterreich",
-        "alias": [
-          "Oberosterreich"
-        ]
+        "alias": ["Oberosterreich"]
       },
       {
         "short": "S",
@@ -421,16 +325,10 @@
   {
     "alpha2": "AU",
     "alpha3": "AUS",
-    "countryCallingCodes": [
-      "+61"
-    ],
-    "currencies": [
-      "AUD"
-    ],
+    "countryCallingCodes": ["+61"],
+    "currencies": ["AUD"],
     "ioc": "AUS",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Australia",
     "status": "assigned",
     "provinces": [
@@ -455,9 +353,7 @@
       {
         "short": "CC",
         "name": "Cocos Islands",
-        "alias": [
-          "Keeling Islands"
-        ]
+        "alias": ["Keeling Islands"]
       },
       {
         "name": "Coral Sea Islands",
@@ -519,16 +415,10 @@
   {
     "alpha2": "AW",
     "alpha3": "ABW",
-    "countryCallingCodes": [
-      "+297"
-    ],
-    "currencies": [
-      "AWG"
-    ],
+    "countryCallingCodes": ["+297"],
+    "currencies": ["AWG"],
     "ioc": "ARU",
-    "languages": [
-      "nld"
-    ],
+    "languages": ["nld"],
     "name": "Aruba",
     "status": "assigned",
     "provinces": null,
@@ -537,36 +427,22 @@
   {
     "alpha2": "AX",
     "alpha3": "ALA",
-    "countryCallingCodes": [
-      "+358"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+358"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "swe"
-    ],
+    "languages": ["swe"],
     "name": "Åland Islands",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Aland Islands"
-    ]
+    "alias": ["Aland Islands"]
   },
   {
     "alpha2": "AZ",
     "alpha3": "AZE",
-    "countryCallingCodes": [
-      "+994"
-    ],
-    "currencies": [
-      "AZN"
-    ],
+    "countryCallingCodes": ["+994"],
+    "currencies": ["AZN"],
     "ioc": "AZE",
-    "languages": [
-      "aze"
-    ],
+    "languages": ["aze"],
     "name": "Azerbaijan",
     "status": "assigned",
     "provinces": null,
@@ -575,18 +451,10 @@
   {
     "alpha2": "BA",
     "alpha3": "BIH",
-    "countryCallingCodes": [
-      "+387"
-    ],
-    "currencies": [
-      "BAM"
-    ],
+    "countryCallingCodes": ["+387"],
+    "currencies": ["BAM"],
     "ioc": "BIH",
-    "languages": [
-      "bos",
-      "cre",
-      "srp"
-    ],
+    "languages": ["bos", "cre", "srp"],
     "name": "Bosnia & Herzegovina",
     "status": "assigned",
     "provinces": null,
@@ -595,16 +463,10 @@
   {
     "alpha2": "BB",
     "alpha3": "BRB",
-    "countryCallingCodes": [
-      "+1 246"
-    ],
-    "currencies": [
-      "BBD"
-    ],
+    "countryCallingCodes": ["+1 246"],
+    "currencies": ["BBD"],
     "ioc": "BAR",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Barbados",
     "status": "assigned",
     "provinces": null,
@@ -613,466 +475,332 @@
   {
     "alpha2": "BD",
     "alpha3": "BGD",
-    "countryCallingCodes": [
-      "+880"
-    ],
-    "currencies": [
-      "BDT"
-    ],
+    "countryCallingCodes": ["+880"],
+    "currencies": ["BDT"],
     "ioc": "BAN",
-    "languages": [
-      "ben"
-    ],
+    "languages": ["ben"],
     "name": "Bangladesh",
     "status": "assigned",
     "provinces": [
       {
         "name": "বরগুনা",
         "region": "Barisal",
-        "alias": [
-          "Barguna"
-        ]
+        "alias": ["Barguna"]
       },
       {
         "name": "বরিশাল",
         "region": "Barisal",
-        "alias": [
-          "Barisal"
-        ]
+        "alias": ["Barisal"]
       },
       {
         "name": "ভোলা",
         "region": "Barisal",
-        "alias": [
-          "Bhola"
-        ]
+        "alias": ["Bhola"]
       },
       {
         "name": "ঝালকাঠি",
         "region": "Barisal",
-        "alias": [
-          "Jhalokati"
-        ]
+        "alias": ["Jhalokati"]
       },
       {
         "name": "পটুয়াখালী",
         "region": "Barisal",
-        "alias": [
-          "Patuakhali"
-        ]
+        "alias": ["Patuakhali"]
       },
       {
         "name": "পিরোজপুর",
         "region": "Barisal",
-        "alias": [
-          "Pirojpur"
-        ]
+        "alias": ["Pirojpur"]
       },
       {
         "name": "বান্দরবান",
         "region": "Chittagong",
-        "alias": [
-          "Bandarban"
-        ]
+        "alias": ["Bandarban"]
       },
       {
         "name": "ব্রাহ্মণবাড়ীয়া",
         "region": "Chittagong",
-        "alias": [
-          "Brahmanbaria"
-        ]
+        "alias": ["Brahmanbaria"]
       },
       {
         "name": "চাঁদপুর",
         "region": "Chittagong",
-        "alias": [
-          "Chandpur"
-        ]
+        "alias": ["Chandpur"]
       },
       {
         "name": "চট্টগ্রাম",
         "region": "Chittagong",
-        "alias": [
-          "Chittagong"
-        ]
+        "alias": ["Chittagong"]
       },
       {
         "name": "কুমিল্লা",
         "region": "Chittagong",
-        "alias": [
-          "Comilla"
-        ]
+        "alias": ["Comilla"]
       },
       {
         "name": "কক্সবাজার",
         "region": "Chittagong",
-        "alias": [
-          "Cox's Bazar"
-        ]
+        "alias": ["Cox's Bazar"]
       },
       {
         "name": "ফেনী",
         "region": "Chittagong",
-        "alias": [
-          "Feni"
-        ]
+        "alias": ["Feni"]
       },
       {
         "name": "খাগড়াছড়ি",
         "region": "Chittagong",
-        "alias": [
-          "Khagrachhari"
-        ]
+        "alias": ["Khagrachhari"]
       },
       {
         "name": "লক্ষীপুর",
         "region": "Chittagong",
-        "alias": [
-          "Lakshmipur"
-        ]
+        "alias": ["Lakshmipur"]
       },
       {
         "name": "নোয়াখালী",
         "region": "Chittagong",
-        "alias": [
-          "Noakhali"
-        ]
+        "alias": ["Noakhali"]
       },
       {
         "name": "রাঙ্গামাটি",
         "region": "Chittagong",
-        "alias": [
-          "Rangamati"
-        ]
+        "alias": ["Rangamati"]
       },
       {
         "name": "ঢাকা",
         "region": "Dhaka",
-        "alias": [
-          "Dhaka"
-        ]
+        "alias": ["Dhaka"]
       },
       {
         "name": "ফরিদপুর",
         "region": "Dhaka",
-        "alias": [
-          "Faridpur"
-        ]
+        "alias": ["Faridpur"]
       },
       {
         "name": "গাজীপুর",
         "region": "Dhaka",
-        "alias": [
-          "Gazipur"
-        ]
+        "alias": ["Gazipur"]
       },
       {
         "name": "গোপালগঞ্জ",
         "region": "Dhaka",
-        "alias": [
-          "Gopalganj"
-        ]
+        "alias": ["Gopalganj"]
       },
       {
         "name": "জামালপুর",
         "region": "Dhaka",
-        "alias": [
-          "Jamalpur"
-        ]
+        "alias": ["Jamalpur"]
       },
       {
         "name": "কিশোরগঞ্জ",
         "region": "Dhaka",
-        "alias": [
-          "Kishoreganj"
-        ]
+        "alias": ["Kishoreganj"]
       },
       {
         "name": "মাদারীপুর",
         "region": "Dhaka",
-        "alias": [
-          "Madaripur"
-        ]
+        "alias": ["Madaripur"]
       },
       {
         "name": "মানিকগঞ্জ",
         "region": "Dhaka",
-        "alias": [
-          "Manikganj"
-        ]
+        "alias": ["Manikganj"]
       },
       {
         "name": "মুন্সীগঞ্জ",
         "region": "Dhaka",
-        "alias": [
-          "Munshiganj"
-        ]
+        "alias": ["Munshiganj"]
       },
       {
         "name": "ময়মনসিংহ",
         "region": "Dhaka",
-        "alias": [
-          "Mymensingh"
-        ]
+        "alias": ["Mymensingh"]
       },
       {
         "name": "নারায়ণগঞ্জ",
         "region": "Dhaka",
-        "alias": [
-          "Narayanganj"
-        ]
+        "alias": ["Narayanganj"]
       },
       {
         "name": "নরসিংদী",
         "region": "Dhaka",
-        "alias": [
-          "Narsingdi"
-        ]
+        "alias": ["Narsingdi"]
       },
       {
         "name": "নেত্রকোনা",
         "region": "Dhaka",
-        "alias": [
-          "Netrakona"
-        ]
+        "alias": ["Netrakona"]
       },
       {
         "name": "রাজবাড়ী",
         "region": "Dhaka",
-        "alias": [
-          "Rajbari"
-        ]
+        "alias": ["Rajbari"]
       },
       {
         "name": "শরীয়তপুর",
         "region": "Dhaka",
-        "alias": [
-          "Shariatpur"
-        ]
+        "alias": ["Shariatpur"]
       },
       {
         "name": "শেরপুর",
         "region": "Dhaka",
-        "alias": [
-          "Sherpur"
-        ]
+        "alias": ["Sherpur"]
       },
       {
         "name": "টাঙ্গাইল",
         "region": "Dhaka",
-        "alias": [
-          "Tangail"
-        ]
+        "alias": ["Tangail"]
       },
       {
         "name": "বাগেরহাট",
         "region": "Khulna",
-        "alias": [
-          "Bagerhat"
-        ]
+        "alias": ["Bagerhat"]
       },
       {
         "name": "চুয়াডাঙ্গা",
         "region": "Khulna",
-        "alias": [
-          "Chuadanga"
-        ]
+        "alias": ["Chuadanga"]
       },
       {
         "name": "যশোর",
         "region": "Khulna",
-        "alias": [
-          "Jessore"
-        ]
+        "alias": ["Jessore"]
       },
       {
         "name": "ঝিনাইদহ",
         "region": "Khulna",
-        "alias": [
-          "Jhenaidah"
-        ]
+        "alias": ["Jhenaidah"]
       },
       {
         "name": "খুলনা",
         "region": "Khulna",
-        "alias": [
-          "Khulna"
-        ]
+        "alias": ["Khulna"]
       },
       {
         "name": "কুষ্টিয়া",
         "region": "Khulna",
-        "alias": [
-          "Kushtia"
-        ]
+        "alias": ["Kushtia"]
       },
       {
         "name": "মাগুরা",
         "region": "Khulna",
-        "alias": [
-          "Magura"
-        ]
+        "alias": ["Magura"]
       },
       {
         "name": "মেহেরপুর",
         "region": "Khulna",
-        "alias": [
-          "Meherpur"
-        ]
+        "alias": ["Meherpur"]
       },
       {
         "name": "নড়াইল",
         "region": "Khulna",
-        "alias": [
-          "Narail"
-        ]
+        "alias": ["Narail"]
       },
       {
         "name": "সাতক্ষিরা",
         "region": "Khulna",
-        "alias": [
-          "Satkhira"
-        ]
+        "alias": ["Satkhira"]
       },
       {
         "name": "বগুড়া",
         "region": "Rajshahi",
-        "alias": [
-          "Bogra"
-        ]
+        "alias": ["Bogra"]
       },
       {
         "name": "জয়পুরহাট",
         "region": "Rajshahi",
-        "alias": [
-          "Joypurhat"
-        ]
+        "alias": ["Joypurhat"]
       },
       {
         "name": "নওগাঁ",
         "region": "Rajshahi",
-        "alias": [
-          "Naogaon"
-        ]
+        "alias": ["Naogaon"]
       },
       {
         "name": "নাটোর",
         "region": "Rajshahi",
-        "alias": [
-          "Natore"
-        ]
+        "alias": ["Natore"]
       },
       {
         "name": "নওয়াবগঞ্জ",
         "region": "Rajshahi",
-        "alias": [
-          "Chapainawabganj"
-        ]
+        "alias": ["Chapainawabganj"]
       },
       {
         "name": "পাবনা",
         "region": "Rajshahi",
-        "alias": [
-          "Pabna"
-        ]
+        "alias": ["Pabna"]
       },
       {
         "name": "রাজশাহী",
         "region": "Rajshahi",
-        "alias": [
-          "Rajshahi"
-        ]
+        "alias": ["Rajshahi"]
       },
       {
         "name": "সিরাজগঞ্জ",
         "region": "Rajshahi",
-        "alias": [
-          "Sirajganj"
-        ]
+        "alias": ["Sirajganj"]
       },
       {
         "name": "দিনাজপুর",
         "region": "Rangpur",
-        "alias": [
-          "Dinajpur"
-        ]
+        "alias": ["Dinajpur"]
       },
       {
         "name": "গাইবান্ধা",
         "region": "Rangpur",
-        "alias": [
-          "Gaibandha"
-        ]
+        "alias": ["Gaibandha"]
       },
       {
         "name": "কুড়িগ্রাম",
         "region": "Rangpur",
-        "alias": [
-          "Kurigram"
-        ]
+        "alias": ["Kurigram"]
       },
       {
         "name": "লালমনিরহাট",
         "region": "Rangpur",
-        "alias": [
-          "Lalmonirhat"
-        ]
+        "alias": ["Lalmonirhat"]
       },
       {
         "name": "নীলফামারী",
         "region": "Rangpur",
-        "alias": [
-          "Nilphamari"
-        ]
+        "alias": ["Nilphamari"]
       },
       {
         "name": "পঞ্চগড়",
         "region": "Rangpur",
-        "alias": [
-          "Panchagarh"
-        ]
+        "alias": ["Panchagarh"]
       },
       {
         "name": "রংপুর",
         "region": "Rangpur",
-        "alias": [
-          "Rangpur"
-        ]
+        "alias": ["Rangpur"]
       },
       {
         "name": "ঠাকুরগাঁ",
         "region": "Rangpur",
-        "alias": [
-          "Thakurgaon"
-        ]
+        "alias": ["Thakurgaon"]
       },
       {
         "name": "হবিগঞ্জ",
         "region": "Sylhet",
-        "alias": [
-          "Habiganj"
-        ]
+        "alias": ["Habiganj"]
       },
       {
         "name": "মৌলভীবাজার",
         "region": "Sylhet",
-        "alias": [
-          "Moulvibazar"
-        ]
+        "alias": ["Moulvibazar"]
       },
       {
         "name": "সুনামগঞ্জ",
         "region": "Sylhet",
-        "alias": [
-          "Sunamganj"
-        ]
+        "alias": ["Sunamganj"]
       },
       {
         "name": "সিলেট",
         "region": "Sylhet",
-        "alias": [
-          "Sylhet"
-        ]
+        "alias": ["Sylhet"]
       }
     ],
     "alias": null
@@ -1080,18 +808,10 @@
   {
     "alpha2": "BE",
     "alpha3": "BEL",
-    "countryCallingCodes": [
-      "+32"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+32"],
+    "currencies": ["EUR"],
     "ioc": "BEL",
-    "languages": [
-      "nld",
-      "fra",
-      "deu"
-    ],
+    "languages": ["nld", "fra", "deu"],
     "name": "Belgium",
     "status": "assigned",
     "provinces": [
@@ -1103,17 +823,12 @@
       {
         "short": "HAI",
         "name": "Henegouwen",
-        "alias": [
-          "Hainaut"
-        ]
+        "alias": ["Hainaut"]
       },
       {
         "short": "LIE",
         "name": "Luik",
-        "alias": [
-          "Liège",
-          "Liege"
-        ]
+        "alias": ["Liège", "Liege"]
       },
       {
         "short": "LIM",
@@ -1133,30 +848,22 @@
       {
         "short": "OVL",
         "name": "Oost-Vlaanderen",
-        "alias": [
-          "Oost Vlaanderen"
-        ]
+        "alias": ["Oost Vlaanderen"]
       },
       {
         "short": "VBR",
         "name": "Vlaams-Brabant",
-        "alias": [
-          "Vlaams Brabant"
-        ]
+        "alias": ["Vlaams Brabant"]
       },
       {
         "short": "WBR",
         "name": "Waals-Brabant",
-        "alias": [
-          "Waals Brabant"
-        ]
+        "alias": ["Waals Brabant"]
       },
       {
         "short": "WVL",
         "name": "West-Vlaanderen",
-        "alias": [
-          "West Vlaanderen"
-        ]
+        "alias": ["West Vlaanderen"]
       }
     ],
     "alias": null
@@ -1164,16 +871,10 @@
   {
     "alpha2": "BF",
     "alpha3": "BFA",
-    "countryCallingCodes": [
-      "+226"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+226"],
+    "currencies": ["XOF"],
     "ioc": "BUR",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Burkina Faso",
     "status": "assigned",
     "provinces": null,
@@ -1182,16 +883,10 @@
   {
     "alpha2": "BG",
     "alpha3": "BGR",
-    "countryCallingCodes": [
-      "+359"
-    ],
-    "currencies": [
-      "BGN"
-    ],
+    "countryCallingCodes": ["+359"],
+    "currencies": ["BGN"],
     "ioc": "BUL",
-    "languages": [
-      "bul"
-    ],
+    "languages": ["bul"],
     "name": "Bulgaria",
     "status": "assigned",
     "provinces": null,
@@ -1200,16 +895,10 @@
   {
     "alpha2": "BH",
     "alpha3": "BHR",
-    "countryCallingCodes": [
-      "+973"
-    ],
-    "currencies": [
-      "BHD"
-    ],
+    "countryCallingCodes": ["+973"],
+    "currencies": ["BHD"],
     "ioc": "BRN",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Bahrain",
     "status": "assigned",
     "provinces": null,
@@ -1218,16 +907,10 @@
   {
     "alpha2": "BI",
     "alpha3": "BDI",
-    "countryCallingCodes": [
-      "+257"
-    ],
-    "currencies": [
-      "BIF"
-    ],
+    "countryCallingCodes": ["+257"],
+    "currencies": ["BIF"],
     "ioc": "BDI",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Burundi",
     "status": "assigned",
     "provinces": null,
@@ -1236,16 +919,10 @@
   {
     "alpha2": "BJ",
     "alpha3": "BEN",
-    "countryCallingCodes": [
-      "+229"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+229"],
+    "currencies": ["XOF"],
     "ioc": "BEN",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Benin",
     "status": "assigned",
     "provinces": null,
@@ -1254,36 +931,22 @@
   {
     "alpha2": "BL",
     "alpha3": "BLM",
-    "countryCallingCodes": [
-      "+590"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+590"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Saint Barthélemy",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Saint Barthelemy"
-    ]
+    "alias": ["Saint Barthelemy"]
   },
   {
     "alpha2": "BM",
     "alpha3": "BMU",
-    "countryCallingCodes": [
-      "+1 441"
-    ],
-    "currencies": [
-      "BMD"
-    ],
+    "countryCallingCodes": ["+1 441"],
+    "currencies": ["BMD"],
     "ioc": "BER",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Bermuda",
     "status": "assigned",
     "provinces": null,
@@ -1292,17 +955,10 @@
   {
     "alpha2": "BN",
     "alpha3": "BRN",
-    "countryCallingCodes": [
-      "+673"
-    ],
-    "currencies": [
-      "BND"
-    ],
+    "countryCallingCodes": ["+673"],
+    "currencies": ["BND"],
     "ioc": "BRU",
-    "languages": [
-      "msa",
-      "eng"
-    ],
+    "languages": ["msa", "eng"],
     "name": "Brunei Darussalam",
     "status": "assigned",
     "provinces": null,
@@ -1311,19 +967,10 @@
   {
     "alpha2": "BO",
     "alpha3": "BOL",
-    "countryCallingCodes": [
-      "+591"
-    ],
-    "currencies": [
-      "BOB",
-      "BOV"
-    ],
+    "countryCallingCodes": ["+591"],
+    "currencies": ["BOB", "BOV"],
     "ioc": "BOL",
-    "languages": [
-      "spa",
-      "aym",
-      "que"
-    ],
+    "languages": ["spa", "aym", "que"],
     "name": "Bolivia, Plurinational State Of",
     "status": "assigned",
     "provinces": [
@@ -1335,30 +982,22 @@
       {
         "name": "Iténez",
         "region": "Beni",
-        "alias": [
-          "Itenez"
-        ]
+        "alias": ["Itenez"]
       },
       {
         "name": "José Ballivián",
         "region": "Beni",
-        "alias": [
-          "Jose Ballivian"
-        ]
+        "alias": ["Jose Ballivian"]
       },
       {
         "name": "Mamoré",
         "region": "Beni",
-        "alias": [
-          "Mamore"
-        ]
+        "alias": ["Mamore"]
       },
       {
         "name": "Marbán",
         "region": "Beni",
-        "alias": [
-          "Marban"
-        ]
+        "alias": ["Marban"]
       },
       {
         "name": "Moxos",
@@ -1368,9 +1007,7 @@
       {
         "name": "Vaca Díez",
         "region": "Beni",
-        "alias": [
-          "Vaca Diez"
-        ]
+        "alias": ["Vaca Diez"]
       },
       {
         "name": "Yacuma",
@@ -1395,9 +1032,7 @@
       {
         "name": "Jaime Zudáñez",
         "region": "Chuquisaca",
-        "alias": [
-          "Jaime Zudanez"
-        ]
+        "alias": ["Jaime Zudanez"]
       },
       {
         "name": "Luis Calvo",
@@ -1427,9 +1062,7 @@
       {
         "name": "Yamparáez",
         "region": "Chuquisaca",
-        "alias": [
-          "Yamparaez"
-        ]
+        "alias": ["Yamparaez"]
       },
       {
         "name": "Arani",
@@ -1474,9 +1107,7 @@
       {
         "name": "Germán Jordán",
         "region": "Cochabamba",
-        "alias": [
-          "German Jordan"
-        ]
+        "alias": ["German Jordan"]
       },
       {
         "name": "Mizque",
@@ -1501,16 +1132,12 @@
       {
         "name": "Bolívar",
         "region": "Cochabamba",
-        "alias": [
-          "Bolivar"
-        ]
+        "alias": ["Bolivar"]
       },
       {
         "name": "Tapacarí",
         "region": "Cochabamba",
-        "alias": [
-          "Tapacari"
-        ]
+        "alias": ["Tapacari"]
       },
       {
         "name": "Tiraque",
@@ -1565,9 +1192,7 @@
       {
         "name": "José Manuel Pando",
         "region": "La Paz",
-        "alias": [
-          "Jose Manuel Pando"
-        ]
+        "alias": ["Jose Manuel Pando"]
       },
       {
         "name": "Larecaja",
@@ -1592,9 +1217,7 @@
       {
         "name": "Muñecas",
         "region": "La Paz",
-        "alias": [
-          "Munecas"
-        ]
+        "alias": ["Munecas"]
       },
       {
         "name": "Nor Yungas",
@@ -1659,16 +1282,12 @@
       {
         "name": "Pantaléon Dalence",
         "region": "Oruro",
-        "alias": [
-          "Pantaleon Dalence"
-        ]
+        "alias": ["Pantaleon Dalence"]
       },
       {
         "name": "Poopó",
         "region": "Oruro",
-        "alias": [
-          "Poopo"
-        ]
+        "alias": ["Poopo"]
       },
       {
         "name": "Puerto de Mejillones",
@@ -1688,16 +1307,12 @@
       {
         "name": "Saucarí",
         "region": "Oruro",
-        "alias": [
-          "Saucari"
-        ]
+        "alias": ["Saucari"]
       },
       {
         "name": "Sebastián Pagador",
         "region": "Oruro",
-        "alias": [
-          "Sebastian Pagador"
-        ]
+        "alias": ["Sebastian Pagador"]
       },
       {
         "name": "Sud Carangas",
@@ -1707,23 +1322,17 @@
       {
         "name": "Tomas Barrón",
         "region": "Oruro",
-        "alias": [
-          "Tomas Barron"
-        ]
+        "alias": ["Tomas Barron"]
       },
       {
         "name": "Abuná",
         "region": "Pando",
-        "alias": [
-          "Abuna"
-        ]
+        "alias": ["Abuna"]
       },
       {
         "name": "Federico Román",
         "region": "Pando",
-        "alias": [
-          "Federico Roman"
-        ]
+        "alias": ["Federico Roman"]
       },
       {
         "name": "Madre de Dios",
@@ -1738,16 +1347,12 @@
       {
         "name": "Nicolás Suárez",
         "region": "Pando",
-        "alias": [
-          "Nicolas Suarez"
-        ]
+        "alias": ["Nicolas Suarez"]
       },
       {
         "name": "Alonso de Ibáñez",
         "region": "Potosí",
-        "alias": [
-          "Alonso de Ibanez"
-        ]
+        "alias": ["Alonso de Ibanez"]
       },
       {
         "name": "Antonio Quijarro",
@@ -1787,9 +1392,7 @@
       {
         "name": "José María Linares",
         "region": "Potosí",
-        "alias": [
-          "José Maria Linares"
-        ]
+        "alias": ["José Maria Linares"]
       },
       {
         "name": "Modesto Omiste",
@@ -1804,9 +1407,7 @@
       {
         "name": "Nor Lípez",
         "region": "Potosí",
-        "alias": [
-          "Nor Lipez"
-        ]
+        "alias": ["Nor Lipez"]
       },
       {
         "name": "Rafael Bustillo",
@@ -1821,30 +1422,22 @@
       {
         "name": "Sur Lípez",
         "region": "Potosí",
-        "alias": [
-          "Sur Lipez"
-        ]
+        "alias": ["Sur Lipez"]
       },
       {
         "name": "Tomás Frías",
         "region": "Potosí",
-        "alias": [
-          "Tomas Frias"
-        ]
+        "alias": ["Tomas Frias"]
       },
       {
         "name": "Andrés Ibáñez",
         "region": "Santa Cruz",
-        "alias": [
-          "Andres Ibanez"
-        ]
+        "alias": ["Andres Ibanez"]
       },
       {
         "name": "Ángel Sandoval",
         "region": "Santa Cruz",
-        "alias": [
-          "Angel Sandoval"
-        ]
+        "alias": ["Angel Sandoval"]
       },
       {
         "name": "Chiquitos",
@@ -1864,9 +1457,7 @@
       {
         "name": "Germán Busch",
         "region": "Santa Cruz",
-        "alias": [
-          "German Busch"
-        ]
+        "alias": ["German Busch"]
       },
       {
         "name": "Guarayos",
@@ -1886,23 +1477,17 @@
       {
         "name": "José Miguel de Velasco",
         "region": "Santa Cruz",
-        "alias": [
-          "Jose Miguel de Velasco"
-        ]
+        "alias": ["Jose Miguel de Velasco"]
       },
       {
         "name": "Manuel María Caballero",
         "region": "Santa Cruz",
-        "alias": [
-          "Manuel Maria Caballero"
-        ]
+        "alias": ["Manuel Maria Caballero"]
       },
       {
         "name": "Ñuflo de Chávez",
         "region": "Santa Cruz",
-        "alias": [
-          "Nuflo de Chavez"
-        ]
+        "alias": ["Nuflo de Chavez"]
       },
       {
         "name": "Obispo Santistevan",
@@ -1937,9 +1522,7 @@
       {
         "name": "Eustaquio Méndez",
         "region": "Tarija",
-        "alias": [
-          "Eustaquio Mendez"
-        ]
+        "alias": ["Eustaquio Mendez"]
       },
       {
         "name": "Gran Chaco",
@@ -1949,28 +1532,18 @@
       {
         "name": "José María Avilés",
         "region": "Tarija",
-        "alias": [
-          "Jose María Aviles"
-        ]
+        "alias": ["Jose María Aviles"]
       }
     ],
-    "alias": [
-      "Bolivia"
-    ]
+    "alias": ["Bolivia"]
   },
   {
     "alpha2": "BQ",
     "alpha3": "BES",
-    "countryCallingCodes": [
-      "+599"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+599"],
+    "currencies": ["USD"],
     "ioc": "",
-    "languages": [
-      "nld"
-    ],
+    "languages": ["nld"],
     "name": "Bonaire, Saint Eustatius And Saba",
     "status": "assigned",
     "provinces": null,
@@ -1991,16 +1564,10 @@
   {
     "alpha2": "BR",
     "alpha3": "BRA",
-    "countryCallingCodes": [
-      "+55"
-    ],
-    "currencies": [
-      "BRL"
-    ],
+    "countryCallingCodes": ["+55"],
+    "currencies": ["BRL"],
     "ioc": "BRA",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "Brazil",
     "status": "assigned",
     "provinces": [
@@ -2017,9 +1584,7 @@
       {
         "short": "AP",
         "name": "Amapá",
-        "alias": [
-          "Amapa"
-        ]
+        "alias": ["Amapa"]
       },
       {
         "short": "AM",
@@ -2034,9 +1599,7 @@
       {
         "short": "CE",
         "name": "Ceará",
-        "alias": [
-          "Ceara"
-        ]
+        "alias": ["Ceara"]
       },
       {
         "short": "DF",
@@ -2046,23 +1609,17 @@
       {
         "short": "ES",
         "name": "Espírito Santo",
-        "alias": [
-          "Espirito Santo"
-        ]
+        "alias": ["Espirito Santo"]
       },
       {
         "short": "GO",
         "name": "Goiás",
-        "alias": [
-          "Goias"
-        ]
+        "alias": ["Goias"]
       },
       {
         "short": "MA",
         "name": "Maranhão",
-        "alias": [
-          "Maranhao"
-        ]
+        "alias": ["Maranhao"]
       },
       {
         "short": "MT",
@@ -2082,23 +1639,17 @@
       {
         "short": "PA",
         "name": "Pará",
-        "alias": [
-          "Para"
-        ]
+        "alias": ["Para"]
       },
       {
         "short": "PB",
         "name": "Paraíba",
-        "alias": [
-          "Paraiba"
-        ]
+        "alias": ["Paraiba"]
       },
       {
         "short": "PR",
         "name": "Paraná",
-        "alias": [
-          "Parana"
-        ]
+        "alias": ["Parana"]
       },
       {
         "short": "PE",
@@ -2108,9 +1659,7 @@
       {
         "short": "PI",
         "name": "Piauí",
-        "alias": [
-          "Piaui"
-        ]
+        "alias": ["Piaui"]
       },
       {
         "short": "RJ",
@@ -2130,9 +1679,7 @@
       {
         "short": "RO",
         "name": "Rondônia",
-        "alias": [
-          "Rondonia"
-        ]
+        "alias": ["Rondonia"]
       },
       {
         "short": "RR",
@@ -2147,9 +1694,7 @@
       {
         "short": "SP",
         "name": "São Paulo",
-        "alias": [
-          "Sao Paulo"
-        ]
+        "alias": ["Sao Paulo"]
       },
       {
         "short": "SE",
@@ -2167,16 +1712,10 @@
   {
     "alpha2": "BS",
     "alpha3": "BHS",
-    "countryCallingCodes": [
-      "+1 242"
-    ],
-    "currencies": [
-      "BSD"
-    ],
+    "countryCallingCodes": ["+1 242"],
+    "currencies": ["BSD"],
     "ioc": "BAH",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Bahamas",
     "status": "assigned",
     "provinces": null,
@@ -2185,17 +1724,10 @@
   {
     "alpha2": "BT",
     "alpha3": "BTN",
-    "countryCallingCodes": [
-      "+975"
-    ],
-    "currencies": [
-      "INR",
-      "BTN"
-    ],
+    "countryCallingCodes": ["+975"],
+    "currencies": ["INR", "BTN"],
     "ioc": "BHU",
-    "languages": [
-      "dzo"
-    ],
+    "languages": ["dzo"],
     "name": "Bhutan",
     "status": "assigned",
     "provinces": null,
@@ -2217,9 +1749,7 @@
     "alpha2": "BV",
     "alpha3": "BVT",
     "countryCallingCodes": [],
-    "currencies": [
-      "NOK"
-    ],
+    "currencies": ["NOK"],
     "ioc": "",
     "languages": [],
     "name": "Bouvet Island",
@@ -2230,17 +1760,10 @@
   {
     "alpha2": "BW",
     "alpha3": "BWA",
-    "countryCallingCodes": [
-      "+267"
-    ],
-    "currencies": [
-      "BWP"
-    ],
+    "countryCallingCodes": ["+267"],
+    "currencies": ["BWP"],
     "ioc": "BOT",
-    "languages": [
-      "eng",
-      "tsn"
-    ],
+    "languages": ["eng", "tsn"],
     "name": "Botswana",
     "status": "assigned",
     "provinces": null,
@@ -2249,17 +1772,10 @@
   {
     "alpha2": "BY",
     "alpha3": "BLR",
-    "countryCallingCodes": [
-      "+375"
-    ],
-    "currencies": [
-      "BYR"
-    ],
+    "countryCallingCodes": ["+375"],
+    "currencies": ["BYR"],
     "ioc": "BLR",
-    "languages": [
-      "bel",
-      "rus"
-    ],
+    "languages": ["bel", "rus"],
     "name": "Belarus",
     "status": "assigned",
     "provinces": null,
@@ -2280,16 +1796,10 @@
   {
     "alpha2": "BZ",
     "alpha3": "BLZ",
-    "countryCallingCodes": [
-      "+501"
-    ],
-    "currencies": [
-      "BZD"
-    ],
+    "countryCallingCodes": ["+501"],
+    "currencies": ["BZD"],
     "ioc": "BIZ",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Belize",
     "status": "assigned",
     "provinces": null,
@@ -2298,17 +1808,10 @@
   {
     "alpha2": "CA",
     "alpha3": "CAN",
-    "countryCallingCodes": [
-      "+1"
-    ],
-    "currencies": [
-      "CAD"
-    ],
+    "countryCallingCodes": ["+1"],
+    "currencies": ["CAD"],
     "ioc": "CAN",
-    "languages": [
-      "eng",
-      "fra"
-    ],
+    "languages": ["eng", "fra"],
     "name": "Canada",
     "status": "assigned",
     "provinces": [
@@ -2335,10 +1838,7 @@
       {
         "short": "NL",
         "name": "Newfoundland and Labrador",
-        "alias": [
-          "Newfoundland",
-          "Labrador"
-        ]
+        "alias": ["Newfoundland", "Labrador"]
       },
       {
         "short": "NS",
@@ -2386,40 +1886,22 @@
   {
     "alpha2": "CC",
     "alpha3": "CCK",
-    "countryCallingCodes": [
-      "+61"
-    ],
-    "currencies": [
-      "AUD"
-    ],
+    "countryCallingCodes": ["+61"],
+    "currencies": ["AUD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Cocos (Keeling) Islands",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Cocos Islands",
-      "Keeling Islands"
-    ]
+    "alias": ["Cocos Islands", "Keeling Islands"]
   },
   {
     "alpha2": "CD",
     "alpha3": "COD",
-    "countryCallingCodes": [
-      "+243"
-    ],
-    "currencies": [
-      "CDF"
-    ],
+    "countryCallingCodes": ["+243"],
+    "currencies": ["CDF"],
     "ioc": "COD",
-    "languages": [
-      "fra",
-      "lin",
-      "kon",
-      "swa"
-    ],
+    "languages": ["fra", "lin", "kon", "swa"],
     "name": "Democratic Republic Of Congo",
     "status": "assigned",
     "provinces": null,
@@ -2428,17 +1910,10 @@
   {
     "alpha2": "CF",
     "alpha3": "CAF",
-    "countryCallingCodes": [
-      "+236"
-    ],
-    "currencies": [
-      "XAF"
-    ],
+    "countryCallingCodes": ["+236"],
+    "currencies": ["XAF"],
     "ioc": "CAF",
-    "languages": [
-      "fra",
-      "sag"
-    ],
+    "languages": ["fra", "sag"],
     "name": "Central African Republic",
     "status": "assigned",
     "provinces": null,
@@ -2447,17 +1922,10 @@
   {
     "alpha2": "CG",
     "alpha3": "COG",
-    "countryCallingCodes": [
-      "+242"
-    ],
-    "currencies": [
-      "XAF"
-    ],
+    "countryCallingCodes": ["+242"],
+    "currencies": ["XAF"],
     "ioc": "CGO",
-    "languages": [
-      "fra",
-      "lin"
-    ],
+    "languages": ["fra", "lin"],
     "name": "Republic Of Congo",
     "status": "assigned",
     "provinces": null,
@@ -2466,21 +1934,10 @@
   {
     "alpha2": "CH",
     "alpha3": "CHE",
-    "countryCallingCodes": [
-      "+41"
-    ],
-    "currencies": [
-      "CHF",
-      "CHE",
-      "CHW"
-    ],
+    "countryCallingCodes": ["+41"],
+    "currencies": ["CHF", "CHE", "CHW"],
     "ioc": "SUI",
-    "languages": [
-      "deu",
-      "fra",
-      "ita",
-      "roh"
-    ],
+    "languages": ["deu", "fra", "ita", "roh"],
     "name": "Switzerland",
     "status": "assigned",
     "provinces": null,
@@ -2489,38 +1946,22 @@
   {
     "alpha2": "CI",
     "alpha3": "CIV",
-    "countryCallingCodes": [
-      "+225"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+225"],
+    "currencies": ["XOF"],
     "ioc": "CIV",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Côte d'Ivoire",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Cote d'Ivoire",
-      "Ivory Coast"
-    ]
+    "alias": ["Cote d'Ivoire", "Ivory Coast"]
   },
   {
     "alpha2": "CK",
     "alpha3": "COK",
-    "countryCallingCodes": [
-      "+682"
-    ],
-    "currencies": [
-      "NZD"
-    ],
+    "countryCallingCodes": ["+682"],
+    "currencies": ["NZD"],
     "ioc": "COK",
-    "languages": [
-      "eng",
-      "mri"
-    ],
+    "languages": ["eng", "mri"],
     "name": "Cook Islands",
     "status": "assigned",
     "provinces": null,
@@ -2529,17 +1970,10 @@
   {
     "alpha2": "CL",
     "alpha3": "CHL",
-    "countryCallingCodes": [
-      "+56"
-    ],
-    "currencies": [
-      "CLP",
-      "CLF"
-    ],
+    "countryCallingCodes": ["+56"],
+    "currencies": ["CLP", "CLF"],
     "ioc": "CHI",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Chile",
     "status": "assigned",
     "provinces": [
@@ -2581,9 +2015,7 @@
       {
         "name": "Copiapó",
         "region": "III Atacama",
-        "alias": [
-          "Copiapo"
-        ]
+        "alias": ["Copiapo"]
       },
       {
         "name": "Huasco",
@@ -2593,9 +2025,7 @@
       {
         "name": "Chañaral",
         "region": "III Atacama",
-        "alias": [
-          "Chanaral"
-        ]
+        "alias": ["Chanaral"]
       },
       {
         "name": "Elqui",
@@ -2605,9 +2035,7 @@
       {
         "name": "Limarí",
         "region": "IV Coquimbo",
-        "alias": [
-          "Limari"
-        ]
+        "alias": ["Limari"]
       },
       {
         "name": "Choapa",
@@ -2652,9 +2080,7 @@
       {
         "name": "Valparaíso",
         "region": "V Valparaíso",
-        "alias": [
-          "Valparaiso"
-        ]
+        "alias": ["Valparaiso"]
       },
       {
         "name": "Cachapoal",
@@ -2684,9 +2110,7 @@
       {
         "name": "Curicó",
         "region": "VII Maule",
-        "alias": [
-          "Curico"
-        ]
+        "alias": ["Curico"]
       },
       {
         "name": "Cauquenes",
@@ -2696,23 +2120,17 @@
       {
         "name": "Concepción",
         "region": "VIII Biobío",
-        "alias": [
-          "Concepcion"
-        ]
+        "alias": ["Concepcion"]
       },
       {
         "name": "Ñuble",
         "region": "VIII Biobío",
-        "alias": [
-          "Nuble"
-        ]
+        "alias": ["Nuble"]
       },
       {
         "name": "Biobío",
         "region": "VIII Biobío",
-        "alias": [
-          "Biobio"
-        ]
+        "alias": ["Biobio"]
       },
       {
         "name": "Arauco",
@@ -2767,9 +2185,7 @@
       {
         "name": "Aisén",
         "region": "XI Aisén",
-        "alias": [
-          "Aisen"
-        ]
+        "alias": ["Aisen"]
       },
       {
         "name": "General Carrera",
@@ -2799,9 +2215,7 @@
       {
         "name": "Antártica Chilena",
         "region": "XII Magallanes",
-        "alias": [
-          "Antartica Chilena"
-        ]
+        "alias": ["Antartica Chilena"]
       },
       {
         "name": "Santiago",
@@ -2839,17 +2253,10 @@
   {
     "alpha2": "CM",
     "alpha3": "CMR",
-    "countryCallingCodes": [
-      "+237"
-    ],
-    "currencies": [
-      "XAF"
-    ],
+    "countryCallingCodes": ["+237"],
+    "currencies": ["XAF"],
     "ioc": "CMR",
-    "languages": [
-      "eng",
-      "fra"
-    ],
+    "languages": ["eng", "fra"],
     "name": "Cameroon",
     "status": "assigned",
     "provinces": null,
@@ -2858,327 +2265,182 @@
   {
     "alpha2": "CN",
     "alpha3": "CHN",
-    "countryCallingCodes": [
-      "+86"
-    ],
-    "currencies": [
-      "CNY"
-    ],
+    "countryCallingCodes": ["+86"],
+    "currencies": ["CNY"],
     "ioc": "CHN",
-    "languages": [
-      "zho"
-    ],
+    "languages": ["zho"],
     "name": "China",
     "status": "assigned",
     "provinces": [
       {
         "name": "Chongqing",
         "short": "CQ",
-        "alias": [
-          "重庆",
-          "渝",
-          "Chongqing Shi"
-        ]
+        "alias": ["重庆", "渝", "Chongqing Shi"]
       },
       {
         "name": "Heilongjiang",
         "short": "HL",
-        "alias": [
-          "黑龙江",
-          "黑",
-          "Heilongjiang Sheng"
-        ]
+        "alias": ["黑龙江", "黑", "Heilongjiang Sheng"]
       },
       {
         "name": "Jilin",
         "short": "JL",
-        "alias": [
-          "吉林",
-          "吉",
-          "Jilin Sheng"
-        ]
+        "alias": ["吉林", "吉", "Jilin Sheng"]
       },
       {
         "name": "Hainan",
         "short": "HI",
-        "alias": [
-          "海南",
-          "琼",
-          "Hainan Sheng"
-        ]
+        "alias": ["海南", "琼", "Hainan Sheng"]
       },
       {
         "name": "Beijing",
         "short": "BJ",
-        "alias": [
-          "北京",
-          "京",
-          "Beijing Shi"
-        ]
+        "alias": ["北京", "京", "Beijing Shi"]
       },
       {
         "name": "Liaoning",
         "short": "LN",
-        "alias": [
-          "辽宁",
-          "辽",
-          "Liaoning Sheng"
-        ]
+        "alias": ["辽宁", "辽", "Liaoning Sheng"]
       },
       {
         "name": "Inner Mongolia",
         "short": "NM",
-        "alias": [
-          "内蒙古",
-          "蒙",
-          "Nei Menggu Zizhiqu"
-        ]
+        "alias": ["内蒙古", "蒙", "Nei Menggu Zizhiqu"]
       },
       {
         "name": "Tibet",
         "short": "XZ",
-        "alias": [
-          "Xizang",
-          "西藏",
-          "藏",
-          "Xizang Zizhiqu"
-        ]
+        "alias": ["Xizang", "西藏", "藏", "Xizang Zizhiqu"]
       },
       {
         "name": "Qinghai",
         "short": "QH",
-        "alias": [
-          "青海",
-          "青",
-          "Qinghai Sheng"
-        ]
+        "alias": ["青海", "青", "Qinghai Sheng"]
       },
       {
         "name": "Ningxia",
         "short": "NX",
-        "alias": [
-          "宁夏",
-          "宁",
-          "Ningxia Huizu Zizhiqu"
-        ]
+        "alias": ["宁夏", "宁", "Ningxia Huizu Zizhiqu"]
       },
       {
         "name": "Xinjiang",
         "short": "XJ",
-        "alias": [
-          "新疆",
-          "新",
-          "Xinjiang Weiwuer Zizhiqu"
-        ]
+        "alias": ["新疆", "新", "Xinjiang Weiwuer Zizhiqu"]
       },
       {
         "name": "Gansu",
         "short": "GS",
-        "alias": [
-          "甘肃",
-          "甘",
-          "Gansu Sheng"
-        ]
+        "alias": ["甘肃", "甘", "Gansu Sheng"]
       },
       {
         "name": "Hebei",
         "short": "HE",
-        "alias": [
-          "河北",
-          "冀",
-          "Hebei Sheng"
-        ]
+        "alias": ["河北", "冀", "Hebei Sheng"]
       },
       {
         "name": "Henan",
         "short": "HA",
-        "alias": [
-          "河南",
-          "豫",
-          "Henan Sheng"
-        ]
+        "alias": ["河南", "豫", "Henan Sheng"]
       },
       {
         "name": "Hubei",
         "short": "HB",
-        "alias": [
-          "湖北",
-          "鄂",
-          "Hubei Sheng"
-        ]
+        "alias": ["湖北", "鄂", "Hubei Sheng"]
       },
       {
         "name": "Hunan",
         "short": "HN",
-        "alias": [
-          "湖南",
-          "湘",
-          "Hunan Sheng"
-        ]
+        "alias": ["湖南", "湘", "Hunan Sheng"]
       },
       {
         "name": "Shandong",
         "short": "SD",
-        "alias": [
-          "山东",
-          "鲁",
-          "Shandong Sheng"
-        ]
+        "alias": ["山东", "鲁", "Shandong Sheng"]
       },
       {
         "name": "Jiangsu",
         "short": "JS",
-        "alias": [
-          "江苏",
-          "苏",
-          "Jiangsu Sheng"
-        ]
+        "alias": ["江苏", "苏", "Jiangsu Sheng"]
       },
       {
         "name": "Anhui",
         "short": "AH",
-        "alias": [
-          "安徽",
-          "皖",
-          "Anhui Sheng"
-        ]
+        "alias": ["安徽", "皖", "Anhui Sheng"]
       },
       {
         "name": "Shanxi",
         "short": "SX",
-        "alias": [
-          "山西",
-          "晋",
-          "Shānxī Sheng"
-        ]
+        "alias": ["山西", "晋", "Shānxī Sheng"]
       },
       {
         "name": "Shaanxi",
         "short": "SN",
-        "alias": [
-          "陕西",
-          "陕",
-          "Shǎnxī Sheng"
-        ]
+        "alias": ["陕西", "陕", "Shǎnxī Sheng"]
       },
       {
         "name": "Sichuan",
         "short": "SC",
-        "alias": [
-          "四川",
-          "川",
-          "Sichuan Sheng"
-        ]
+        "alias": ["四川", "川", "Sichuan Sheng"]
       },
       {
         "name": "Yunnan",
         "short": "YN",
-        "alias": [
-          "云南",
-          "滇",
-          "Yunnan Sheng"
-        ]
+        "alias": ["云南", "滇", "Yunnan Sheng"]
       },
       {
         "name": "Guizhou",
         "short": "GZ",
-        "alias": [
-          "贵州",
-          "黔",
-          "Guizhou Sheng"
-        ]
+        "alias": ["贵州", "黔", "Guizhou Sheng"]
       },
       {
         "name": "Zhejiang",
         "short": "ZJ",
-        "alias": [
-          "浙江",
-          "浙",
-          "Zhejiang Sheng"
-        ]
+        "alias": ["浙江", "浙", "Zhejiang Sheng"]
       },
       {
         "name": "Fujian",
         "short": "FJ",
-        "alias": [
-          "福建",
-          "闽",
-          "Fujian Sheng"
-        ]
+        "alias": ["福建", "闽", "Fujian Sheng"]
       },
       {
         "name": "Guangxi",
         "short": "GX",
-        "alias": [
-          "广西",
-          "桂",
-          "Guangxi Zhuangzu Zizhiqu"
-        ]
+        "alias": ["广西", "桂", "Guangxi Zhuangzu Zizhiqu"]
       },
       {
         "name": "Shanghai",
         "short": "SH",
-        "alias": [
-          "上海",
-          "沪",
-          "Shanghai Shi"
-        ]
+        "alias": ["上海", "沪", "Shanghai Shi"]
       },
       {
         "name": "Tianjin",
         "short": "TJ",
-        "alias": [
-          "天津",
-          "津",
-          "Tianjin Shi"
-        ]
+        "alias": ["天津", "津", "Tianjin Shi"]
       },
       {
         "name": "Hong Kong",
         "short": "HK",
-        "alias": [
-          "Xianggang",
-          "香港",
-          "港",
-          "Xianggang Tebie Xingzhengqu"
-        ]
+        "alias": ["Xianggang", "香港", "港", "Xianggang Tebie Xingzhengqu"]
       },
       {
         "name": "Macau",
         "short": "MC",
-        "alias": [
-          "Aomen",
-          "澳门",
-          "澳",
-          "Aomen Tebie Xingzhengqu"
-        ]
+        "alias": ["Aomen", "澳门", "澳", "Aomen Tebie Xingzhengqu"]
       },
       {
         "name": "Taiwan",
         "short": "TW",
-        "alias": [
-          "台湾",
-          "台",
-          "Taiwan Shi"
-        ]
+        "alias": ["台湾", "台", "Taiwan Shi"]
       },
       {
         "name": "Jiangxi",
         "short": "JX ",
-        "alias": [
-          "江西",
-          "赣",
-          "Jiangxi Sheng"
-        ]
+        "alias": ["江西", "赣", "Jiangxi Sheng"]
       },
       {
         "name": "Guangdong",
         "short": "GD",
-        "alias": [
-          "广东",
-          "粤",
-          "Guangdong Sheng"
-        ]
+        "alias": ["广东", "粤", "Guangdong Sheng"]
       }
     ],
     "alias": null
@@ -3186,17 +2448,10 @@
   {
     "alpha2": "CO",
     "alpha3": "COL",
-    "countryCallingCodes": [
-      "+57"
-    ],
-    "currencies": [
-      "COP",
-      "COU"
-    ],
+    "countryCallingCodes": ["+57"],
+    "currencies": ["COP", "COU"],
     "ioc": "COL",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Colombia",
     "status": "assigned",
     "provinces": null,
@@ -3206,9 +2461,7 @@
     "alpha2": "CP",
     "alpha3": "",
     "countryCallingCodes": [],
-    "currencies": [
-      "EUR"
-    ],
+    "currencies": ["EUR"],
     "ioc": "",
     "languages": [],
     "name": "Clipperton Island",
@@ -3219,16 +2472,10 @@
   {
     "alpha2": "CR",
     "alpha3": "CRI",
-    "countryCallingCodes": [
-      "+506"
-    ],
-    "currencies": [
-      "CRC"
-    ],
+    "countryCallingCodes": ["+506"],
+    "currencies": ["CRC"],
     "ioc": "CRC",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Costa Rica",
     "status": "assigned",
     "provinces": null,
@@ -3244,9 +2491,7 @@
     "name": "Czechoslovakia",
     "status": "deleted",
     "provinces": null,
-    "alias": [
-      "Czecho-Slovakia"
-    ]
+    "alias": ["Czecho-Slovakia"]
   },
   {
     "alpha2": "CS",
@@ -3275,31 +2520,20 @@
   {
     "alpha2": "CU",
     "alpha3": "CUB",
-    "countryCallingCodes": [
-      "+53"
-    ],
-    "currencies": [
-      "CUP",
-      "CUC"
-    ],
+    "countryCallingCodes": ["+53"],
+    "currencies": ["CUP", "CUC"],
     "ioc": "CUB",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Cuba",
     "status": "assigned",
     "provinces": [
       {
         "name": "Camagüey",
-        "alias": [
-          "Camaguey"
-        ]
+        "alias": ["Camaguey"]
       },
       {
         "name": "Ciego de Ávila",
-        "alias": [
-          "Ciego de Avila"
-        ]
+        "alias": ["Ciego de Avila"]
       },
       {
         "name": "Cienfuegos",
@@ -3315,15 +2549,11 @@
       },
       {
         "name": "Guantánamo",
-        "alias": [
-          "Guantanamo"
-        ]
+        "alias": ["Guantanamo"]
       },
       {
         "name": "Holguín",
-        "alias": [
-          "Holguin"
-        ]
+        "alias": ["Holguin"]
       },
       {
         "name": "Nueva Gerona",
@@ -3343,21 +2573,15 @@
       },
       {
         "name": "San José de las Lajas",
-        "alias": [
-          "San Jose de las Lajas"
-        ]
+        "alias": ["San Jose de las Lajas"]
       },
       {
         "name": "Pinar del Río",
-        "alias": [
-          "Pinar del Rio"
-        ]
+        "alias": ["Pinar del Rio"]
       },
       {
         "name": "Sancti Spíritus",
-        "alias": [
-          "Sancti Spiritus"
-        ]
+        "alias": ["Sancti Spiritus"]
       },
       {
         "name": "Santiago de Cuba",
@@ -3373,16 +2597,10 @@
   {
     "alpha2": "CV",
     "alpha3": "CPV",
-    "countryCallingCodes": [
-      "+238"
-    ],
-    "currencies": [
-      "CVE"
-    ],
+    "countryCallingCodes": ["+238"],
+    "currencies": ["CVE"],
     "ioc": "CPV",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "Cabo Verde",
     "status": "assigned",
     "provinces": null,
@@ -3391,16 +2609,10 @@
   {
     "alpha2": "CW",
     "alpha3": "CUW",
-    "countryCallingCodes": [
-      "+599"
-    ],
-    "currencies": [
-      "ANG"
-    ],
+    "countryCallingCodes": ["+599"],
+    "currencies": ["ANG"],
     "ioc": "",
-    "languages": [
-      "nld"
-    ],
+    "languages": ["nld"],
     "name": "Curacao",
     "status": "assigned",
     "provinces": null,
@@ -3409,16 +2621,10 @@
   {
     "alpha2": "CX",
     "alpha3": "CXR",
-    "countryCallingCodes": [
-      "+61"
-    ],
-    "currencies": [
-      "AUD"
-    ],
+    "countryCallingCodes": ["+61"],
+    "currencies": ["AUD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Christmas Island",
     "status": "assigned",
     "provinces": null,
@@ -3427,17 +2633,10 @@
   {
     "alpha2": "CY",
     "alpha3": "CYP",
-    "countryCallingCodes": [
-      "+357"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+357"],
+    "currencies": ["EUR"],
     "ioc": "CYP",
-    "languages": [
-      "ell",
-      "tur"
-    ],
+    "languages": ["ell", "tur"],
     "name": "Cyprus",
     "status": "assigned",
     "provinces": null,
@@ -3446,22 +2645,14 @@
   {
     "alpha2": "CZ",
     "alpha3": "CZE",
-    "countryCallingCodes": [
-      "+420"
-    ],
-    "currencies": [
-      "CZK"
-    ],
+    "countryCallingCodes": ["+420"],
+    "currencies": ["CZK"],
     "ioc": "CZE",
-    "languages": [
-      "ces"
-    ],
+    "languages": ["ces"],
     "name": "Czech Republic",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Czechia"
-    ]
+    "alias": ["Czechia"]
   },
   {
     "alpha2": "DD",
@@ -3478,27 +2669,17 @@
   {
     "alpha2": "DE",
     "alpha3": "DEU",
-    "countryCallingCodes": [
-      "+49"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+49"],
+    "currencies": ["EUR"],
     "ioc": "GER",
-    "languages": [
-      "deu"
-    ],
+    "languages": ["deu"],
     "name": "Germany",
     "status": "assigned",
     "provinces": [
       {
         "short": "BW",
         "name": "Baden-Württemberg",
-        "alias": [
-          "Baden-Wurttemberg",
-          "Baden Württemberg",
-          "Baden Wurttemberg"
-        ]
+        "alias": ["Baden-Wurttemberg", "Baden Württemberg", "Baden Wurttemberg"]
       },
       {
         "short": "BY",
@@ -3533,9 +2714,7 @@
       {
         "short": "MV",
         "name": "Mecklenburg-Vorpommern",
-        "alias": [
-          "Mecklenburg Vorpommern"
-        ]
+        "alias": ["Mecklenburg Vorpommern"]
       },
       {
         "short": "NI",
@@ -3545,16 +2724,12 @@
       {
         "short": "NW",
         "name": "Nordrhein-Westfalen",
-        "alias": [
-          "Nordrhein Westfalen"
-        ]
+        "alias": ["Nordrhein Westfalen"]
       },
       {
         "short": "RP",
         "name": "Rheinland-Pfalz",
-        "alias": [
-          "Rheinland Pfalz"
-        ]
+        "alias": ["Rheinland Pfalz"]
       },
       {
         "short": "SL",
@@ -3569,23 +2744,17 @@
       {
         "short": "ST",
         "name": "Sachsen-Anhalt",
-        "alias": [
-          "Sachsen Anhalt"
-        ]
+        "alias": ["Sachsen Anhalt"]
       },
       {
         "short": "SH",
         "name": "Schleswig-Holstein",
-        "alias": [
-          "Schleswig Holstein"
-        ]
+        "alias": ["Schleswig Holstein"]
       },
       {
         "short": "TH",
         "name": "Thüringen",
-        "alias": [
-          "Thuringen"
-        ]
+        "alias": ["Thuringen"]
       }
     ],
     "alias": null
@@ -3594,9 +2763,7 @@
     "alpha2": "DG",
     "alpha3": "",
     "countryCallingCodes": [],
-    "currencies": [
-      "USD"
-    ],
+    "currencies": ["USD"],
     "ioc": "",
     "languages": [],
     "name": "Diego Garcia",
@@ -3607,17 +2774,10 @@
   {
     "alpha2": "DJ",
     "alpha3": "DJI",
-    "countryCallingCodes": [
-      "+253"
-    ],
-    "currencies": [
-      "DJF"
-    ],
+    "countryCallingCodes": ["+253"],
+    "currencies": ["DJF"],
     "ioc": "DJI",
-    "languages": [
-      "ara",
-      "fra"
-    ],
+    "languages": ["ara", "fra"],
     "name": "Djibouti",
     "status": "assigned",
     "provinces": null,
@@ -3626,16 +2786,10 @@
   {
     "alpha2": "DK",
     "alpha3": "DNK",
-    "countryCallingCodes": [
-      "+45"
-    ],
-    "currencies": [
-      "DKK"
-    ],
+    "countryCallingCodes": ["+45"],
+    "currencies": ["DKK"],
     "ioc": "DEN",
-    "languages": [
-      "dan"
-    ],
+    "languages": ["dan"],
     "name": "Denmark",
     "status": "assigned",
     "provinces": [
@@ -3653,9 +2807,7 @@
       },
       {
         "name": "Sjælland",
-        "alias": [
-          "Zealand"
-        ]
+        "alias": ["Zealand"]
       },
       {
         "name": "Syddanmark",
@@ -3667,16 +2819,10 @@
   {
     "alpha2": "DM",
     "alpha3": "DMA",
-    "countryCallingCodes": [
-      "+1 767"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+1 767"],
+    "currencies": ["XCD"],
     "ioc": "DMA",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Dominica",
     "status": "assigned",
     "provinces": null,
@@ -3685,18 +2831,10 @@
   {
     "alpha2": "DO",
     "alpha3": "DOM",
-    "countryCallingCodes": [
-      "+1 809",
-      "+1 829",
-      "+1 849"
-    ],
-    "currencies": [
-      "DOP"
-    ],
+    "countryCallingCodes": ["+1 809", "+1 829", "+1 849"],
+    "currencies": ["DOP"],
     "ioc": "DOM",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Dominican Republic",
     "status": "assigned",
     "provinces": null,
@@ -3717,16 +2855,10 @@
   {
     "alpha2": "DZ",
     "alpha3": "DZA",
-    "countryCallingCodes": [
-      "+213"
-    ],
-    "currencies": [
-      "DZD"
-    ],
+    "countryCallingCodes": ["+213"],
+    "currencies": ["DZD"],
     "ioc": "ALG",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Algeria",
     "status": "assigned",
     "provinces": null,
@@ -3736,9 +2868,7 @@
     "alpha2": "EA",
     "alpha3": "",
     "countryCallingCodes": [],
-    "currencies": [
-      "EUR"
-    ],
+    "currencies": ["EUR"],
     "ioc": "",
     "languages": [],
     "name": "Ceuta, Mulilla",
@@ -3749,17 +2879,10 @@
   {
     "alpha2": "EC",
     "alpha3": "ECU",
-    "countryCallingCodes": [
-      "+593"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+593"],
+    "currencies": ["USD"],
     "ioc": "ECU",
-    "languages": [
-      "spa",
-      "que"
-    ],
+    "languages": ["spa", "que"],
     "name": "Ecuador",
     "status": "assigned",
     "provinces": null,
@@ -3768,16 +2891,10 @@
   {
     "alpha2": "EE",
     "alpha3": "EST",
-    "countryCallingCodes": [
-      "+372"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+372"],
+    "currencies": ["EUR"],
     "ioc": "EST",
-    "languages": [
-      "est"
-    ],
+    "languages": ["est"],
     "name": "Estonia",
     "status": "assigned",
     "provinces": null,
@@ -3786,16 +2903,10 @@
   {
     "alpha2": "EG",
     "alpha3": "EGY",
-    "countryCallingCodes": [
-      "+20"
-    ],
-    "currencies": [
-      "EGP"
-    ],
+    "countryCallingCodes": ["+20"],
+    "currencies": ["EGP"],
     "ioc": "EGY",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Egypt",
     "status": "assigned",
     "provinces": null,
@@ -3804,12 +2915,8 @@
   {
     "alpha2": "EH",
     "alpha3": "ESH",
-    "countryCallingCodes": [
-      "+212"
-    ],
-    "currencies": [
-      "MAD"
-    ],
+    "countryCallingCodes": ["+212"],
+    "currencies": ["MAD"],
     "ioc": "",
     "languages": [],
     "name": "Western Sahara",
@@ -3820,18 +2927,10 @@
   {
     "alpha2": "ER",
     "alpha3": "ERI",
-    "countryCallingCodes": [
-      "+291"
-    ],
-    "currencies": [
-      "ERN"
-    ],
+    "countryCallingCodes": ["+291"],
+    "currencies": ["ERN"],
     "ioc": "ERI",
-    "languages": [
-      "eng",
-      "ara",
-      "tir"
-    ],
+    "languages": ["eng", "ara", "tir"],
     "name": "Eritrea",
     "status": "assigned",
     "provinces": null,
@@ -3840,25 +2939,17 @@
   {
     "alpha2": "ES",
     "alpha3": "ESP",
-    "countryCallingCodes": [
-      "+34"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+34"],
+    "currencies": ["EUR"],
     "ioc": "ESP",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Spain",
     "status": "assigned",
     "provinces": [
       {
         "name": "La Coruña",
         "short": "C",
-        "alias": [
-          "La Coruna"
-        ]
+        "alias": ["La Coruna"]
       },
       {
         "name": "Lugo",
@@ -3873,9 +2964,7 @@
       {
         "name": "Guipúzcoa",
         "short": "SS",
-        "alias": [
-          "Guipuzcoa"
-        ]
+        "alias": ["Guipuzcoa"]
       },
       {
         "name": "Huesca",
@@ -3885,9 +2974,7 @@
       {
         "name": "Lérida",
         "short": "L",
-        "alias": [
-          "Lerida"
-        ]
+        "alias": ["Lerida"]
       },
       {
         "name": "Gerona",
@@ -3907,9 +2994,7 @@
       {
         "name": "Castellón",
         "short": "CS",
-        "alias": [
-          "Castellon"
-        ]
+        "alias": ["Castellon"]
       },
       {
         "name": "Valencia",
@@ -3959,9 +3044,7 @@
       {
         "name": "Málaga",
         "short": "MA",
-        "alias": [
-          "Malaga"
-        ]
+        "alias": ["Malaga"]
       },
       {
         "name": "Tenerife",
@@ -3971,9 +3054,7 @@
       {
         "name": "Cádiz",
         "short": "CA",
-        "alias": [
-          "Cadiz"
-        ]
+        "alias": ["Cadiz"]
       },
       {
         "name": "Sevilla",
@@ -4003,9 +3084,7 @@
       {
         "name": "Cáceres",
         "short": "CC",
-        "alias": [
-          "Caceres"
-        ]
+        "alias": ["Caceres"]
       },
       {
         "name": "Toledo",
@@ -4025,23 +3104,17 @@
       {
         "name": "Córdoba",
         "short": "CO",
-        "alias": [
-          "Cordoba"
-        ]
+        "alias": ["Cordoba"]
       },
       {
         "name": "Jaén",
         "short": "J",
-        "alias": [
-          "Jaen"
-        ]
+        "alias": ["Jaen"]
       },
       {
         "name": "Ávila",
         "short": "AV",
-        "alias": [
-          "Avila"
-        ]
+        "alias": ["Avila"]
       },
       {
         "name": "Valladolid",
@@ -4056,9 +3129,7 @@
       {
         "name": "Álava",
         "short": "VI",
-        "alias": [
-          "Alava"
-        ]
+        "alias": ["Alava"]
       },
       {
         "name": "Segovia",
@@ -4078,9 +3149,7 @@
       {
         "name": "León",
         "short": "LE",
-        "alias": [
-          "Leon"
-        ]
+        "alias": ["Leon"]
       },
       {
         "name": "Orense",
@@ -4113,16 +3182,10 @@
   {
     "alpha2": "ET",
     "alpha3": "ETH",
-    "countryCallingCodes": [
-      "+251"
-    ],
-    "currencies": [
-      "ETB"
-    ],
+    "countryCallingCodes": ["+251"],
+    "currencies": ["ETB"],
     "ioc": "ETH",
-    "languages": [
-      "amh"
-    ],
+    "languages": ["amh"],
     "name": "Ethiopia",
     "status": "assigned",
     "provinces": [
@@ -4140,9 +3203,7 @@
       },
       {
         "name": "Benishangul-Gumuz",
-        "alias": [
-          "Benishangul Gumuz"
-        ]
+        "alias": ["Benishangul Gumuz"]
       },
       {
         "name": "Dire Dawa",
@@ -4178,12 +3239,8 @@
   {
     "alpha2": "EU",
     "alpha3": "",
-    "countryCallingCodes": [
-      "+388"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+388"],
+    "currencies": ["EUR"],
     "ioc": "",
     "languages": [],
     "name": "European Union",
@@ -4194,17 +3251,10 @@
   {
     "alpha2": "FI",
     "alpha3": "FIN",
-    "countryCallingCodes": [
-      "+358"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+358"],
+    "currencies": ["EUR"],
     "ioc": "FIN",
-    "languages": [
-      "fin",
-      "swe"
-    ],
+    "languages": ["fin", "swe"],
     "name": "Finland",
     "status": "assigned",
     "provinces": null,
@@ -4213,17 +3263,10 @@
   {
     "alpha2": "FJ",
     "alpha3": "FJI",
-    "countryCallingCodes": [
-      "+679"
-    ],
-    "currencies": [
-      "FJD"
-    ],
+    "countryCallingCodes": ["+679"],
+    "currencies": ["FJD"],
     "ioc": "FIJ",
-    "languages": [
-      "eng",
-      "fij"
-    ],
+    "languages": ["eng", "fij"],
     "name": "Fiji",
     "status": "assigned",
     "provinces": null,
@@ -4232,35 +3275,11 @@
   {
     "alpha2": "FK",
     "alpha3": "FLK",
-    "countryCallingCodes": [
-      "+500"
-    ],
-    "currencies": [
-      "FKP"
-    ],
+    "countryCallingCodes": ["+500"],
+    "currencies": ["FKP"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Falkland Islands",
-    "status": "assigned",
-    "provinces": null,
-    "alias": null
-  },
-  {
-    "alpha2": "FM",
-    "alpha3": "FSM",
-    "countryCallingCodes": [
-      "+691"
-    ],
-    "currencies": [
-      "USD"
-    ],
-    "ioc": "",
-    "languages": [
-      "eng"
-    ],
-    "name": "Micronesia",
     "status": "assigned",
     "provinces": null,
     "alias": null
@@ -4268,17 +3287,10 @@
   {
     "alpha2": "FO",
     "alpha3": "FRO",
-    "countryCallingCodes": [
-      "+298"
-    ],
-    "currencies": [
-      "DKK"
-    ],
+    "countryCallingCodes": ["+298"],
+    "currencies": ["DKK"],
     "ioc": "FAI",
-    "languages": [
-      "fao",
-      "dan"
-    ],
+    "languages": ["fao", "dan"],
     "name": "Faroe Islands",
     "status": "assigned",
     "provinces": null,
@@ -4299,16 +3311,10 @@
   {
     "alpha2": "FR",
     "alpha3": "FRA",
-    "countryCallingCodes": [
-      "+33"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+33"],
+    "currencies": ["EUR"],
     "ioc": "FRA",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "France",
     "status": "assigned",
     "provinces": null,
@@ -4317,16 +3323,10 @@
   {
     "alpha2": "FX",
     "alpha3": "",
-    "countryCallingCodes": [
-      "+241"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+241"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "France, Metropolitan",
     "status": "reserved",
     "provinces": null,
@@ -4335,16 +3335,10 @@
   {
     "alpha2": "GA",
     "alpha3": "GAB",
-    "countryCallingCodes": [
-      "+241"
-    ],
-    "currencies": [
-      "XAF"
-    ],
+    "countryCallingCodes": ["+241"],
+    "currencies": ["XAF"],
     "ioc": "GAB",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Gabon",
     "status": "assigned",
     "provinces": null,
@@ -4353,16 +3347,10 @@
   {
     "alpha2": "GD",
     "alpha3": "GRD",
-    "countryCallingCodes": [
-      "+473"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+473"],
+    "currencies": ["XCD"],
     "ioc": "GRN",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Grenada",
     "status": "assigned",
     "provinces": null,
@@ -4371,16 +3359,10 @@
   {
     "alpha2": "GE",
     "alpha3": "GEO",
-    "countryCallingCodes": [
-      "+995"
-    ],
-    "currencies": [
-      "GEL"
-    ],
+    "countryCallingCodes": ["+995"],
+    "currencies": ["GEL"],
     "ioc": "GEO",
-    "languages": [
-      "kat"
-    ],
+    "languages": ["kat"],
     "name": "Georgia",
     "status": "assigned",
     "provinces": null,
@@ -4401,16 +3383,10 @@
   {
     "alpha2": "GF",
     "alpha3": "GUF",
-    "countryCallingCodes": [
-      "+594"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+594"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "French Guiana",
     "status": "assigned",
     "provinces": null,
@@ -4419,16 +3395,10 @@
   {
     "alpha2": "GG",
     "alpha3": "GGY",
-    "countryCallingCodes": [
-      "+44"
-    ],
-    "currencies": [
-      "GBP"
-    ],
+    "countryCallingCodes": ["+44"],
+    "currencies": ["GBP"],
     "ioc": "GCI",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Guernsey",
     "status": "assigned",
     "provinces": null,
@@ -4437,16 +3407,10 @@
   {
     "alpha2": "GH",
     "alpha3": "GHA",
-    "countryCallingCodes": [
-      "+233"
-    ],
-    "currencies": [
-      "GHS"
-    ],
+    "countryCallingCodes": ["+233"],
+    "currencies": ["GHS"],
     "ioc": "GHA",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Ghana",
     "status": "assigned",
     "provinces": null,
@@ -4455,16 +3419,10 @@
   {
     "alpha2": "GI",
     "alpha3": "GIB",
-    "countryCallingCodes": [
-      "+350"
-    ],
-    "currencies": [
-      "GIP"
-    ],
+    "countryCallingCodes": ["+350"],
+    "currencies": ["GIP"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Gibraltar",
     "status": "assigned",
     "provinces": null,
@@ -4473,16 +3431,10 @@
   {
     "alpha2": "GL",
     "alpha3": "GRL",
-    "countryCallingCodes": [
-      "+299"
-    ],
-    "currencies": [
-      "DKK"
-    ],
+    "countryCallingCodes": ["+299"],
+    "currencies": ["DKK"],
     "ioc": "",
-    "languages": [
-      "kal"
-    ],
+    "languages": ["kal"],
     "name": "Greenland",
     "status": "assigned",
     "provinces": null,
@@ -4491,16 +3443,10 @@
   {
     "alpha2": "GM",
     "alpha3": "GMB",
-    "countryCallingCodes": [
-      "+220"
-    ],
-    "currencies": [
-      "GMD"
-    ],
+    "countryCallingCodes": ["+220"],
+    "currencies": ["GMD"],
     "ioc": "GAM",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Gambia",
     "status": "assigned",
     "provinces": null,
@@ -4509,16 +3455,10 @@
   {
     "alpha2": "GN",
     "alpha3": "GIN",
-    "countryCallingCodes": [
-      "+224"
-    ],
-    "currencies": [
-      "GNF"
-    ],
+    "countryCallingCodes": ["+224"],
+    "currencies": ["GNF"],
     "ioc": "GUI",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Guinea",
     "status": "assigned",
     "provinces": null,
@@ -4527,16 +3467,10 @@
   {
     "alpha2": "GP",
     "alpha3": "GLP",
-    "countryCallingCodes": [
-      "+590"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+590"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Guadeloupe",
     "status": "assigned",
     "provinces": null,
@@ -4545,18 +3479,10 @@
   {
     "alpha2": "GQ",
     "alpha3": "GNQ",
-    "countryCallingCodes": [
-      "+240"
-    ],
-    "currencies": [
-      "XAF"
-    ],
+    "countryCallingCodes": ["+240"],
+    "currencies": ["XAF"],
     "ioc": "GEQ",
-    "languages": [
-      "spa",
-      "fra",
-      "por"
-    ],
+    "languages": ["spa", "fra", "por"],
     "name": "Equatorial Guinea",
     "status": "assigned",
     "provinces": null,
@@ -4565,16 +3491,10 @@
   {
     "alpha2": "GR",
     "alpha3": "GRC",
-    "countryCallingCodes": [
-      "+30"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+30"],
+    "currencies": ["EUR"],
     "ioc": "GRE",
-    "languages": [
-      "ell"
-    ],
+    "languages": ["ell"],
     "name": "Greece",
     "status": "assigned",
     "provinces": null,
@@ -4584,13 +3504,9 @@
     "alpha2": "GS",
     "alpha3": "SGS",
     "countryCallingCodes": [],
-    "currencies": [
-      "GBP"
-    ],
+    "currencies": ["GBP"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "South Georgia And The South Sandwich Islands",
     "status": "assigned",
     "provinces": null,
@@ -4599,16 +3515,10 @@
   {
     "alpha2": "GT",
     "alpha3": "GTM",
-    "countryCallingCodes": [
-      "+502"
-    ],
-    "currencies": [
-      "GTQ"
-    ],
+    "countryCallingCodes": ["+502"],
+    "currencies": ["GTQ"],
     "ioc": "GUA",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Guatemala",
     "status": "assigned",
     "provinces": null,
@@ -4617,16 +3527,10 @@
   {
     "alpha2": "GU",
     "alpha3": "GUM",
-    "countryCallingCodes": [
-      "+1 671"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1 671"],
+    "currencies": ["USD"],
     "ioc": "GUM",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Guam",
     "status": "assigned",
     "provinces": null,
@@ -4635,36 +3539,22 @@
   {
     "alpha2": "GW",
     "alpha3": "GNB",
-    "countryCallingCodes": [
-      "+245"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+245"],
+    "currencies": ["XOF"],
     "ioc": "GBS",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "Guinea-Bissau",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Guinea Bissau"
-    ]
+    "alias": ["Guinea Bissau"]
   },
   {
     "alpha2": "GY",
     "alpha3": "GUY",
-    "countryCallingCodes": [
-      "+592"
-    ],
-    "currencies": [
-      "GYD"
-    ],
+    "countryCallingCodes": ["+592"],
+    "currencies": ["GYD"],
     "ioc": "GUY",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Guyana",
     "status": "assigned",
     "provinces": null,
@@ -4673,17 +3563,10 @@
   {
     "alpha2": "HK",
     "alpha3": "HKG",
-    "countryCallingCodes": [
-      "+852"
-    ],
-    "currencies": [
-      "HKD"
-    ],
+    "countryCallingCodes": ["+852"],
+    "currencies": ["HKD"],
     "ioc": "HKG",
-    "languages": [
-      "zho",
-      "eng"
-    ],
+    "languages": ["zho", "eng"],
     "name": "Hong Kong",
     "status": "assigned",
     "provinces": null,
@@ -4693,9 +3576,7 @@
     "alpha2": "HM",
     "alpha3": "HMD",
     "countryCallingCodes": [],
-    "currencies": [
-      "AUD"
-    ],
+    "currencies": ["AUD"],
     "ioc": "",
     "languages": [],
     "name": "Heard Island And McDonald Islands",
@@ -4706,16 +3587,10 @@
   {
     "alpha2": "HN",
     "alpha3": "HND",
-    "countryCallingCodes": [
-      "+504"
-    ],
-    "currencies": [
-      "HNL"
-    ],
+    "countryCallingCodes": ["+504"],
+    "currencies": ["HNL"],
     "ioc": "HON",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Honduras",
     "status": "assigned",
     "provinces": null,
@@ -4724,16 +3599,10 @@
   {
     "alpha2": "HR",
     "alpha3": "HRV",
-    "countryCallingCodes": [
-      "+385"
-    ],
-    "currencies": [
-      "HRK"
-    ],
+    "countryCallingCodes": ["+385"],
+    "currencies": ["HRK"],
     "ioc": "CRO",
-    "languages": [
-      "hrv"
-    ],
+    "languages": ["hrv"],
     "name": "Croatia",
     "status": "assigned",
     "provinces": null,
@@ -4742,18 +3611,10 @@
   {
     "alpha2": "HT",
     "alpha3": "HTI",
-    "countryCallingCodes": [
-      "+509"
-    ],
-    "currencies": [
-      "HTG",
-      "USD"
-    ],
+    "countryCallingCodes": ["+509"],
+    "currencies": ["HTG", "USD"],
     "ioc": "HAI",
-    "languages": [
-      "fra",
-      "hat"
-    ],
+    "languages": ["fra", "hat"],
     "name": "Haiti",
     "status": "assigned",
     "provinces": null,
@@ -4762,16 +3623,10 @@
   {
     "alpha2": "HU",
     "alpha3": "HUN",
-    "countryCallingCodes": [
-      "+36"
-    ],
-    "currencies": [
-      "HUF"
-    ],
+    "countryCallingCodes": ["+36"],
+    "currencies": ["HUF"],
     "ioc": "HUN",
-    "languages": [
-      "hun"
-    ],
+    "languages": ["hun"],
     "name": "Hungary",
     "status": "assigned",
     "provinces": null,
@@ -4793,9 +3648,7 @@
     "alpha2": "IC",
     "alpha3": "",
     "countryCallingCodes": [],
-    "currencies": [
-      "EUR"
-    ],
+    "currencies": ["EUR"],
     "ioc": "",
     "languages": [],
     "name": "Canary Islands",
@@ -4806,16 +3659,10 @@
   {
     "alpha2": "ID",
     "alpha3": "IDN",
-    "countryCallingCodes": [
-      "+62"
-    ],
-    "currencies": [
-      "IDR"
-    ],
+    "countryCallingCodes": ["+62"],
+    "currencies": ["IDR"],
     "ioc": "INA",
-    "languages": [
-      "ind"
-    ],
+    "languages": ["ind"],
     "name": "Indonesia",
     "status": "assigned",
     "provinces": [
@@ -4832,9 +3679,7 @@
       {
         "short": "ID-BB",
         "name": "Bangka–Belitung Islands",
-        "alias": [
-          "Bangka Belitung Islands"
-        ]
+        "alias": ["Bangka Belitung Islands"]
       },
       {
         "short": "ID-BT",
@@ -4997,17 +3842,10 @@
   {
     "alpha2": "IE",
     "alpha3": "IRL",
-    "countryCallingCodes": [
-      "+353"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+353"],
+    "currencies": ["EUR"],
     "ioc": "IRL",
-    "languages": [
-      "eng",
-      "gle"
-    ],
+    "languages": ["eng", "gle"],
     "name": "Ireland",
     "status": "assigned",
     "provinces": null,
@@ -5016,18 +3854,10 @@
   {
     "alpha2": "IL",
     "alpha3": "ISR",
-    "countryCallingCodes": [
-      "+972"
-    ],
-    "currencies": [
-      "ILS"
-    ],
+    "countryCallingCodes": ["+972"],
+    "currencies": ["ILS"],
     "ioc": "ISR",
-    "languages": [
-      "heb",
-      "ara",
-      "eng"
-    ],
+    "languages": ["heb", "ara", "eng"],
     "name": "Israel",
     "status": "assigned",
     "provinces": null,
@@ -5036,17 +3866,10 @@
   {
     "alpha2": "IM",
     "alpha3": "IMN",
-    "countryCallingCodes": [
-      "+44"
-    ],
-    "currencies": [
-      "GBP"
-    ],
+    "countryCallingCodes": ["+44"],
+    "currencies": ["GBP"],
     "ioc": "",
-    "languages": [
-      "eng",
-      "glv"
-    ],
+    "languages": ["eng", "glv"],
     "name": "Isle Of Man",
     "status": "assigned",
     "provinces": null,
@@ -5055,17 +3878,10 @@
   {
     "alpha2": "IN",
     "alpha3": "IND",
-    "countryCallingCodes": [
-      "+91"
-    ],
-    "currencies": [
-      "INR"
-    ],
+    "countryCallingCodes": ["+91"],
+    "currencies": ["INR"],
     "ioc": "IND",
-    "languages": [
-      "eng",
-      "hin"
-    ],
+    "languages": ["eng", "hin"],
     "name": "India",
     "status": "assigned",
     "provinces": [
@@ -5255,16 +4071,10 @@
   {
     "alpha2": "IO",
     "alpha3": "IOT",
-    "countryCallingCodes": [
-      "+246"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+246"],
+    "currencies": ["USD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "British Indian Ocean Territory",
     "status": "assigned",
     "provinces": null,
@@ -5273,17 +4083,10 @@
   {
     "alpha2": "IQ",
     "alpha3": "IRQ",
-    "countryCallingCodes": [
-      "+964"
-    ],
-    "currencies": [
-      "IQD"
-    ],
+    "countryCallingCodes": ["+964"],
+    "currencies": ["IQD"],
     "ioc": "IRQ",
-    "languages": [
-      "ara",
-      "kur"
-    ],
+    "languages": ["ara", "kur"],
     "name": "Iraq",
     "status": "assigned",
     "provinces": null,
@@ -5292,16 +4095,10 @@
   {
     "alpha2": "IR",
     "alpha3": "IRN",
-    "countryCallingCodes": [
-      "+98"
-    ],
-    "currencies": [
-      "IRR"
-    ],
+    "countryCallingCodes": ["+98"],
+    "currencies": ["IRR"],
     "ioc": "IRI",
-    "languages": [
-      "fas"
-    ],
+    "languages": ["fas"],
     "name": "Iran",
     "status": "assigned",
     "provinces": null,
@@ -5310,16 +4107,10 @@
   {
     "alpha2": "IS",
     "alpha3": "ISL",
-    "countryCallingCodes": [
-      "+354"
-    ],
-    "currencies": [
-      "ISK"
-    ],
+    "countryCallingCodes": ["+354"],
+    "currencies": ["ISK"],
     "ioc": "ISL",
-    "languages": [
-      "isl"
-    ],
+    "languages": ["isl"],
     "name": "Iceland",
     "status": "assigned",
     "provinces": null,
@@ -5328,16 +4119,10 @@
   {
     "alpha2": "IT",
     "alpha3": "ITA",
-    "countryCallingCodes": [
-      "+39"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+39"],
+    "currencies": ["EUR"],
     "ioc": "ITA",
-    "languages": [
-      "ita"
-    ],
+    "languages": ["ita"],
     "name": "Italy",
     "status": "assigned",
     "provinces": null,
@@ -5346,17 +4131,10 @@
   {
     "alpha2": "JE",
     "alpha3": "JEY",
-    "countryCallingCodes": [
-      "+44"
-    ],
-    "currencies": [
-      "GBP"
-    ],
+    "countryCallingCodes": ["+44"],
+    "currencies": ["GBP"],
     "ioc": "JCI",
-    "languages": [
-      "eng",
-      "fra"
-    ],
+    "languages": ["eng", "fra"],
     "name": "Jersey",
     "status": "assigned",
     "provinces": null,
@@ -5365,16 +4143,10 @@
   {
     "alpha2": "JM",
     "alpha3": "JAM",
-    "countryCallingCodes": [
-      "+1 876"
-    ],
-    "currencies": [
-      "JMD"
-    ],
+    "countryCallingCodes": ["+1 876"],
+    "currencies": ["JMD"],
     "ioc": "JAM",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Jamaica",
     "status": "assigned",
     "provinces": null,
@@ -5383,16 +4155,10 @@
   {
     "alpha2": "JO",
     "alpha3": "JOR",
-    "countryCallingCodes": [
-      "+962"
-    ],
-    "currencies": [
-      "JOD"
-    ],
+    "countryCallingCodes": ["+962"],
+    "currencies": ["JOD"],
     "ioc": "JOR",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Jordan",
     "status": "assigned",
     "provinces": [
@@ -5450,305 +4216,200 @@
   {
     "alpha2": "JP",
     "alpha3": "JPN",
-    "countryCallingCodes": [
-      "+81"
-    ],
-    "currencies": [
-      "JPY"
-    ],
+    "countryCallingCodes": ["+81"],
+    "currencies": ["JPY"],
     "ioc": "JPN",
-    "languages": [
-      "jpn"
-    ],
+    "languages": ["jpn"],
     "name": "Japan",
     "status": "assigned",
     "provinces": [
       {
         "name": "愛知県",
-        "alias": [
-          "Aichi"
-        ]
+        "alias": ["Aichi"]
       },
       {
         "name": "秋田県",
-        "alias": [
-          "Akita"
-        ]
+        "alias": ["Akita"]
       },
       {
         "name": "青森県",
-        "alias": [
-          "Aomori"
-        ]
+        "alias": ["Aomori"]
       },
       {
         "name": "千葉県",
-        "alias": [
-          "Chiba"
-        ]
+        "alias": ["Chiba"]
       },
       {
         "name": "愛媛県",
-        "alias": [
-          "Ehime"
-        ]
+        "alias": ["Ehime"]
       },
       {
         "name": "福井県",
-        "alias": [
-          "Fukui"
-        ]
+        "alias": ["Fukui"]
       },
       {
         "name": "福岡県",
-        "alias": [
-          "Fukuoka"
-        ]
+        "alias": ["Fukuoka"]
       },
       {
         "name": "福島県",
-        "alias": [
-          "Fukushima"
-        ]
+        "alias": ["Fukushima"]
       },
       {
         "name": "岐阜県",
-        "alias": [
-          "Gifu"
-        ]
+        "alias": ["Gifu"]
       },
       {
         "name": "群馬県",
-        "alias": [
-          "Gunma"
-        ]
+        "alias": ["Gunma"]
       },
       {
         "name": "広島県",
-        "alias": [
-          "Hiroshima"
-        ]
+        "alias": ["Hiroshima"]
       },
       {
         "name": "北海道",
-        "alias": [
-          "Hokkaidō"
-        ]
+        "alias": ["Hokkaidō"]
       },
       {
         "name": "兵庫県",
-        "alias": [
-          "Hyōgo",
-          "Hyogo"
-        ]
+        "alias": ["Hyōgo", "Hyogo"]
       },
       {
         "name": "茨城県",
-        "alias": [
-          "Ibaraki"
-        ]
+        "alias": ["Ibaraki"]
       },
       {
         "name": "石川県",
-        "alias": [
-          "Ishikawa"
-        ]
+        "alias": ["Ishikawa"]
       },
       {
         "name": "岩手県",
-        "alias": [
-          "Iwate"
-        ]
+        "alias": ["Iwate"]
       },
       {
         "name": "香川県",
-        "alias": [
-          "Kagawa"
-        ]
+        "alias": ["Kagawa"]
       },
       {
         "name": "鹿児島県",
-        "alias": [
-          "Kagoshima"
-        ]
+        "alias": ["Kagoshima"]
       },
       {
         "name": "神奈川県",
-        "alias": [
-          "Kanagawa"
-        ]
+        "alias": ["Kanagawa"]
       },
       {
         "name": "高知県",
-        "alias": [
-          "Kōchi",
-          "Kochi"
-        ]
+        "alias": ["Kōchi", "Kochi"]
       },
       {
         "name": "熊本県",
-        "alias": [
-          "Kumamoto"
-        ]
+        "alias": ["Kumamoto"]
       },
       {
         "name": "京都府",
-        "alias": [
-          "Kyōto",
-          "Kyoto"
-        ]
+        "alias": ["Kyōto", "Kyoto"]
       },
       {
         "name": "三重県",
-        "alias": [
-          "Mie"
-        ]
+        "alias": ["Mie"]
       },
       {
         "name": "宮城県",
-        "alias": [
-          "Miyagi"
-        ]
+        "alias": ["Miyagi"]
       },
       {
         "name": "宮崎県",
-        "alias": [
-          "Miyazaki"
-        ]
+        "alias": ["Miyazaki"]
       },
       {
         "name": "長野県",
-        "alias": [
-          "Nagano"
-        ]
+        "alias": ["Nagano"]
       },
       {
         "name": "長崎県",
-        "alias": [
-          "Nagasaki"
-        ]
+        "alias": ["Nagasaki"]
       },
       {
         "name": "奈良県",
-        "alias": [
-          "Nara"
-        ]
+        "alias": ["Nara"]
       },
       {
         "name": "新潟県",
-        "alias": [
-          "Niigata"
-        ]
+        "alias": ["Niigata"]
       },
       {
         "name": "大分県",
-        "alias": [
-          "Ōita",
-          "Oita"
-        ]
+        "alias": ["Ōita", "Oita"]
       },
       {
         "name": "岡山県",
-        "alias": [
-          "Okayama"
-        ]
+        "alias": ["Okayama"]
       },
       {
         "name": "沖縄県",
-        "alias": [
-          "Okinawa"
-        ]
+        "alias": ["Okinawa"]
       },
       {
         "name": "大阪府",
-        "alias": [
-          "Ōsaka"
-        ]
+        "alias": ["Ōsaka"]
       },
       {
         "name": "佐賀県",
-        "alias": [
-          "Saga"
-        ]
+        "alias": ["Saga"]
       },
       {
         "name": "埼玉県",
-        "alias": [
-          "Saitama"
-        ]
+        "alias": ["Saitama"]
       },
       {
         "name": "滋賀県",
-        "alias": [
-          "Shiga"
-        ]
+        "alias": ["Shiga"]
       },
       {
         "name": "島根県",
-        "alias": [
-          "Shimane"
-        ]
+        "alias": ["Shimane"]
       },
       {
         "name": "静岡県",
-        "alias": [
-          "Shizuoka"
-        ]
+        "alias": ["Shizuoka"]
       },
       {
         "name": "栃木県",
-        "alias": [
-          "Tochigi"
-        ]
+        "alias": ["Tochigi"]
       },
       {
         "name": "徳島県",
-        "alias": [
-          "Tokushima"
-        ]
+        "alias": ["Tokushima"]
       },
       {
         "name": "東京都",
-        "alias": [
-          "Tōkyō",
-          "Tokyo"
-        ]
+        "alias": ["Tōkyō", "Tokyo"]
       },
       {
         "name": "鳥取県",
-        "alias": [
-          "Tottori"
-        ]
+        "alias": ["Tottori"]
       },
       {
         "name": "富山県",
-        "alias": [
-          "Toyama"
-        ]
+        "alias": ["Toyama"]
       },
       {
         "name": "和歌山県",
-        "alias": [
-          "Wakayama"
-        ]
+        "alias": ["Wakayama"]
       },
       {
         "name": "山形県",
-        "alias": [
-          "Yamagata"
-        ]
+        "alias": ["Yamagata"]
       },
       {
         "name": "山口県",
-        "alias": [
-          "Yamaguchi"
-        ]
+        "alias": ["Yamaguchi"]
       },
       {
         "name": "山梨県",
-        "alias": [
-          "Yamanashi"
-        ]
+        "alias": ["Yamanashi"]
       }
     ],
     "alias": null
@@ -5768,17 +4429,10 @@
   {
     "alpha2": "KE",
     "alpha3": "KEN",
-    "countryCallingCodes": [
-      "+254"
-    ],
-    "currencies": [
-      "KES"
-    ],
+    "countryCallingCodes": ["+254"],
+    "currencies": ["KES"],
     "ioc": "KEN",
-    "languages": [
-      "eng",
-      "swa"
-    ],
+    "languages": ["eng", "swa"],
     "name": "Kenya",
     "status": "assigned",
     "provinces": null,
@@ -5787,16 +4441,10 @@
   {
     "alpha2": "KG",
     "alpha3": "KGZ",
-    "countryCallingCodes": [
-      "+996"
-    ],
-    "currencies": [
-      "KGS"
-    ],
+    "countryCallingCodes": ["+996"],
+    "currencies": ["KGS"],
     "ioc": "KGZ",
-    "languages": [
-      "rus"
-    ],
+    "languages": ["rus"],
     "name": "Kyrgyzstan",
     "status": "assigned",
     "provinces": null,
@@ -5805,170 +4453,112 @@
   {
     "alpha2": "KH",
     "alpha3": "KHM",
-    "countryCallingCodes": [
-      "+855"
-    ],
-    "currencies": [
-      "KHR"
-    ],
+    "countryCallingCodes": ["+855"],
+    "currencies": ["KHR"],
     "ioc": "CAM",
-    "languages": [
-      "khm"
-    ],
+    "languages": ["khm"],
     "name": "Cambodia",
     "status": "assigned",
     "provinces": [
       {
         "name": "ភ្នំពេញ",
-        "alias": [
-          "Phnom Penh Municipality"
-        ]
+        "alias": ["Phnom Penh Municipality"]
       },
       {
         "name": "បន្ទាយមានជ័យ",
-        "alias": [
-          "Banteay Meanchey"
-        ]
+        "alias": ["Banteay Meanchey"]
       },
       {
         "name": "បាត់ដំបង",
-        "alias": [
-          "Battambang"
-        ]
+        "alias": ["Battambang"]
       },
       {
         "name": "កំពង់ចាម",
-        "alias": [
-          "Kampong Cham"
-        ]
+        "alias": ["Kampong Cham"]
       },
       {
         "name": "កំពង់ឆ្នាំង",
-        "alias": [
-          "Kampong Chhnang"
-        ]
+        "alias": ["Kampong Chhnang"]
       },
       {
         "name": "កំពង់ស្ពឺ",
-        "alias": [
-          "Kampong Speu"
-        ]
+        "alias": ["Kampong Speu"]
       },
       {
         "name": "កំពង់ធំ",
-        "alias": [
-          "Kampong Thom"
-        ]
+        "alias": ["Kampong Thom"]
       },
       {
         "name": "កំពត",
-        "alias": [
-          "Kampot"
-        ]
+        "alias": ["Kampot"]
       },
       {
         "name": "កណ្តាល",
-        "alias": [
-          "Kandal"
-        ]
+        "alias": ["Kandal"]
       },
       {
         "name": "កោះកុង",
-        "alias": [
-          "Koh Kong"
-        ]
+        "alias": ["Koh Kong"]
       },
       {
         "name": "កែប",
-        "alias": [
-          "Kep"
-        ]
+        "alias": ["Kep"]
       },
       {
         "name": "ក្រចេះ",
-        "alias": [
-          "Kratié",
-          "Kratie"
-        ]
+        "alias": ["Kratié", "Kratie"]
       },
       {
         "name": "មណ្ឌលគីរី",
-        "alias": [
-          "Mondulkiri"
-        ]
+        "alias": ["Mondulkiri"]
       },
       {
         "name": "ឧត្តរមានជ័យ",
-        "alias": [
-          "Oddar Meanchey"
-        ]
+        "alias": ["Oddar Meanchey"]
       },
       {
         "name": "បៃលិន",
-        "alias": [
-          "Pailin"
-        ]
+        "alias": ["Pailin"]
       },
       {
         "name": "ព្រះសីហនុ",
-        "alias": [
-          "Preah Sihanouk"
-        ]
+        "alias": ["Preah Sihanouk"]
       },
       {
         "name": "ព្រះវិហារ",
-        "alias": [
-          "Preah Vihear"
-        ]
+        "alias": ["Preah Vihear"]
       },
       {
         "name": "ពោធិ៍សាត់",
-        "alias": [
-          "Pursat"
-        ]
+        "alias": ["Pursat"]
       },
       {
         "name": "ព្រៃវែង",
-        "alias": [
-          "Prey Veng"
-        ]
+        "alias": ["Prey Veng"]
       },
       {
         "name": "រតនគីរី",
-        "alias": [
-          "Ratanakiri"
-        ]
+        "alias": ["Ratanakiri"]
       },
       {
         "name": "សៀមរាប",
-        "alias": [
-          "Siem Reap"
-        ]
+        "alias": ["Siem Reap"]
       },
       {
         "name": "ស្ទឹងត្រែង",
-        "alias": [
-          "Stung Treng"
-        ]
+        "alias": ["Stung Treng"]
       },
       {
         "name": "ស្វាយរៀង",
-        "alias": [
-          "Svay Rieng"
-        ]
+        "alias": ["Svay Rieng"]
       },
       {
         "name": "តាកែវ",
-        "alias": [
-          "Takéo",
-          "Takeo"
-        ]
+        "alias": ["Takéo", "Takeo"]
       },
       {
         "name": "ត្បូងឃ្មុំ",
-        "alias": [
-          "Tbong Khmum"
-        ]
+        "alias": ["Tbong Khmum"]
       }
     ],
     "alias": null
@@ -5976,16 +4566,10 @@
   {
     "alpha2": "KI",
     "alpha3": "KIR",
-    "countryCallingCodes": [
-      "+686"
-    ],
-    "currencies": [
-      "AUD"
-    ],
+    "countryCallingCodes": ["+686"],
+    "currencies": ["AUD"],
     "ioc": "KIR",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Kiribati",
     "status": "assigned",
     "provinces": null,
@@ -5994,17 +4578,10 @@
   {
     "alpha2": "KM",
     "alpha3": "COM",
-    "countryCallingCodes": [
-      "+269"
-    ],
-    "currencies": [
-      "KMF"
-    ],
+    "countryCallingCodes": ["+269"],
+    "currencies": ["KMF"],
     "ioc": "COM",
-    "languages": [
-      "ara",
-      "fra"
-    ],
+    "languages": ["ara", "fra"],
     "name": "Comoros",
     "status": "assigned",
     "provinces": null,
@@ -6013,16 +4590,10 @@
   {
     "alpha2": "KN",
     "alpha3": "KNA",
-    "countryCallingCodes": [
-      "+1 869"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+1 869"],
+    "currencies": ["XCD"],
     "ioc": "SKN",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Saint Kitts And Nevis",
     "status": "assigned",
     "provinces": null,
@@ -6031,16 +4602,10 @@
   {
     "alpha2": "KP",
     "alpha3": "PRK",
-    "countryCallingCodes": [
-      "+850"
-    ],
-    "currencies": [
-      "KPW"
-    ],
+    "countryCallingCodes": ["+850"],
+    "currencies": ["KPW"],
     "ioc": "PRK",
-    "languages": [
-      "kor"
-    ],
+    "languages": ["kor"],
     "name": "North Korea",
     "status": "assigned",
     "provinces": null,
@@ -6049,16 +4614,10 @@
   {
     "alpha2": "KR",
     "alpha3": "KOR",
-    "countryCallingCodes": [
-      "+82"
-    ],
-    "currencies": [
-      "KRW"
-    ],
+    "countryCallingCodes": ["+82"],
+    "currencies": ["KRW"],
     "ioc": "KOR",
-    "languages": [
-      "kor"
-    ],
+    "languages": ["kor"],
     "name": "South Korea",
     "status": "assigned",
     "provinces": null,
@@ -6067,16 +4626,10 @@
   {
     "alpha2": "KW",
     "alpha3": "KWT",
-    "countryCallingCodes": [
-      "+965"
-    ],
-    "currencies": [
-      "KWD"
-    ],
+    "countryCallingCodes": ["+965"],
+    "currencies": ["KWD"],
     "ioc": "KUW",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Kuwait",
     "status": "assigned",
     "provinces": null,
@@ -6085,16 +4638,10 @@
   {
     "alpha2": "KY",
     "alpha3": "CYM",
-    "countryCallingCodes": [
-      "+1 345"
-    ],
-    "currencies": [
-      "KYD"
-    ],
+    "countryCallingCodes": ["+1 345"],
+    "currencies": ["KYD"],
     "ioc": "CAY",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Cayman Islands",
     "status": "assigned",
     "provinces": null,
@@ -6103,19 +4650,10 @@
   {
     "alpha2": "KZ",
     "alpha3": "KAZ",
-    "countryCallingCodes": [
-      "+7",
-      "+7 6",
-      "+7 7"
-    ],
-    "currencies": [
-      "KZT"
-    ],
+    "countryCallingCodes": ["+7", "+7 6", "+7 7"],
+    "currencies": ["KZT"],
     "ioc": "KAZ",
-    "languages": [
-      "kaz",
-      "rus"
-    ],
+    "languages": ["kaz", "rus"],
     "name": "Kazakhstan",
     "status": "assigned",
     "provinces": null,
@@ -6124,16 +4662,10 @@
   {
     "alpha2": "LA",
     "alpha3": "LAO",
-    "countryCallingCodes": [
-      "+856"
-    ],
-    "currencies": [
-      "LAK"
-    ],
+    "countryCallingCodes": ["+856"],
+    "currencies": ["LAK"],
     "ioc": "LAO",
-    "languages": [
-      "lao"
-    ],
+    "languages": ["lao"],
     "name": "Laos",
     "status": "assigned",
     "provinces": null,
@@ -6142,17 +4674,10 @@
   {
     "alpha2": "LB",
     "alpha3": "LBN",
-    "countryCallingCodes": [
-      "+961"
-    ],
-    "currencies": [
-      "LBP"
-    ],
+    "countryCallingCodes": ["+961"],
+    "currencies": ["LBP"],
     "ioc": "LIB",
-    "languages": [
-      "ara",
-      "hye"
-    ],
+    "languages": ["ara", "hye"],
     "name": "Lebanon",
     "status": "assigned",
     "provinces": null,
@@ -6161,16 +4686,10 @@
   {
     "alpha2": "LC",
     "alpha3": "LCA",
-    "countryCallingCodes": [
-      "+1 758"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+1 758"],
+    "currencies": ["XCD"],
     "ioc": "LCA",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Saint Lucia",
     "status": "assigned",
     "provinces": null,
@@ -6179,16 +4698,10 @@
   {
     "alpha2": "LI",
     "alpha3": "LIE",
-    "countryCallingCodes": [
-      "+423"
-    ],
-    "currencies": [
-      "CHF"
-    ],
+    "countryCallingCodes": ["+423"],
+    "currencies": ["CHF"],
     "ioc": "LIE",
-    "languages": [
-      "deu"
-    ],
+    "languages": ["deu"],
     "name": "Liechtenstein",
     "status": "assigned",
     "provinces": null,
@@ -6197,17 +4710,10 @@
   {
     "alpha2": "LK",
     "alpha3": "LKA",
-    "countryCallingCodes": [
-      "+94"
-    ],
-    "currencies": [
-      "LKR"
-    ],
+    "countryCallingCodes": ["+94"],
+    "currencies": ["LKR"],
     "ioc": "SRI",
-    "languages": [
-      "sin",
-      "tam"
-    ],
+    "languages": ["sin", "tam"],
     "name": "Sri Lanka",
     "status": "assigned",
     "provinces": null,
@@ -6216,16 +4722,10 @@
   {
     "alpha2": "LR",
     "alpha3": "LBR",
-    "countryCallingCodes": [
-      "+231"
-    ],
-    "currencies": [
-      "LRD"
-    ],
+    "countryCallingCodes": ["+231"],
+    "currencies": ["LRD"],
     "ioc": "LBR",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Liberia",
     "status": "assigned",
     "provinces": null,
@@ -6234,18 +4734,10 @@
   {
     "alpha2": "LS",
     "alpha3": "LSO",
-    "countryCallingCodes": [
-      "+266"
-    ],
-    "currencies": [
-      "LSL",
-      "ZAR"
-    ],
+    "countryCallingCodes": ["+266"],
+    "currencies": ["LSL", "ZAR"],
     "ioc": "LES",
-    "languages": [
-      "eng",
-      "sot"
-    ],
+    "languages": ["eng", "sot"],
     "name": "Lesotho",
     "status": "assigned",
     "provinces": null,
@@ -6254,16 +4746,10 @@
   {
     "alpha2": "LT",
     "alpha3": "LTU",
-    "countryCallingCodes": [
-      "+370"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+370"],
+    "currencies": ["EUR"],
     "ioc": "LTU",
-    "languages": [
-      "lit"
-    ],
+    "languages": ["lit"],
     "name": "Lithuania",
     "status": "assigned",
     "provinces": null,
@@ -6272,18 +4758,10 @@
   {
     "alpha2": "LU",
     "alpha3": "LUX",
-    "countryCallingCodes": [
-      "+352"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+352"],
+    "currencies": ["EUR"],
     "ioc": "LUX",
-    "languages": [
-      "fra",
-      "deu",
-      "ltz"
-    ],
+    "languages": ["fra", "deu", "ltz"],
     "name": "Luxembourg",
     "status": "assigned",
     "provinces": null,
@@ -6292,16 +4770,10 @@
   {
     "alpha2": "LV",
     "alpha3": "LVA",
-    "countryCallingCodes": [
-      "+371"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+371"],
+    "currencies": ["EUR"],
     "ioc": "LAT",
-    "languages": [
-      "lav"
-    ],
+    "languages": ["lav"],
     "name": "Latvia",
     "status": "assigned",
     "provinces": null,
@@ -6310,16 +4782,10 @@
   {
     "alpha2": "LY",
     "alpha3": "LBY",
-    "countryCallingCodes": [
-      "+218"
-    ],
-    "currencies": [
-      "LYD"
-    ],
+    "countryCallingCodes": ["+218"],
+    "currencies": ["LYD"],
     "ioc": "LBA",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Libya",
     "status": "assigned",
     "provinces": null,
@@ -6328,16 +4794,10 @@
   {
     "alpha2": "MA",
     "alpha3": "MAR",
-    "countryCallingCodes": [
-      "+212"
-    ],
-    "currencies": [
-      "MAD"
-    ],
+    "countryCallingCodes": ["+212"],
+    "currencies": ["MAD"],
     "ioc": "MAR",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Morocco",
     "status": "assigned",
     "provinces": null,
@@ -6346,16 +4806,10 @@
   {
     "alpha2": "MC",
     "alpha3": "MCO",
-    "countryCallingCodes": [
-      "+377"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+377"],
+    "currencies": ["EUR"],
     "ioc": "MON",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Monaco",
     "status": "assigned",
     "provinces": null,
@@ -6364,16 +4818,10 @@
   {
     "alpha2": "MD",
     "alpha3": "MDA",
-    "countryCallingCodes": [
-      "+373"
-    ],
-    "currencies": [
-      "MDL"
-    ],
+    "countryCallingCodes": ["+373"],
+    "currencies": ["MDL"],
     "ioc": "MDA",
-    "languages": [
-      "ron"
-    ],
+    "languages": ["ron"],
     "name": "Moldova",
     "status": "assigned",
     "provinces": null,
@@ -6382,16 +4830,10 @@
   {
     "alpha2": "ME",
     "alpha3": "MNE",
-    "countryCallingCodes": [
-      "+382"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+382"],
+    "currencies": ["EUR"],
     "ioc": "MNE",
-    "languages": [
-      "mot"
-    ],
+    "languages": ["mot"],
     "name": "Montenegro",
     "status": "assigned",
     "provinces": null,
@@ -6400,16 +4842,10 @@
   {
     "alpha2": "MF",
     "alpha3": "MAF",
-    "countryCallingCodes": [
-      "+590"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+590"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Saint Martin",
     "status": "assigned",
     "provinces": null,
@@ -6418,17 +4854,10 @@
   {
     "alpha2": "MG",
     "alpha3": "MDG",
-    "countryCallingCodes": [
-      "+261"
-    ],
-    "currencies": [
-      "MGA"
-    ],
+    "countryCallingCodes": ["+261"],
+    "currencies": ["MGA"],
     "ioc": "MAD",
-    "languages": [
-      "fra",
-      "mlg"
-    ],
+    "languages": ["fra", "mlg"],
     "name": "Madagascar",
     "status": "assigned",
     "provinces": null,
@@ -6437,17 +4866,10 @@
   {
     "alpha2": "MH",
     "alpha3": "MHL",
-    "countryCallingCodes": [
-      "+692"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+692"],
+    "currencies": ["USD"],
     "ioc": "MHL",
-    "languages": [
-      "eng",
-      "mah"
-    ],
+    "languages": ["eng", "mah"],
     "name": "Marshall Islands",
     "status": "assigned",
     "provinces": null,
@@ -6468,16 +4890,10 @@
   {
     "alpha2": "MK",
     "alpha3": "MKD",
-    "countryCallingCodes": [
-      "+389"
-    ],
-    "currencies": [
-      "MKD"
-    ],
+    "countryCallingCodes": ["+389"],
+    "currencies": ["MKD"],
     "ioc": "MKD",
-    "languages": [
-      "mkd"
-    ],
+    "languages": ["mkd"],
     "name": "Macedonia",
     "status": "assigned",
     "provinces": null,
@@ -6486,16 +4902,10 @@
   {
     "alpha2": "ML",
     "alpha3": "MLI",
-    "countryCallingCodes": [
-      "+223"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+223"],
+    "currencies": ["XOF"],
     "ioc": "MLI",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Mali",
     "status": "assigned",
     "provinces": null,
@@ -6504,16 +4914,10 @@
   {
     "alpha2": "MM",
     "alpha3": "MMR",
-    "countryCallingCodes": [
-      "+95"
-    ],
-    "currencies": [
-      "MMK"
-    ],
+    "countryCallingCodes": ["+95"],
+    "currencies": ["MMK"],
     "ioc": "MYA",
-    "languages": [
-      "mya"
-    ],
+    "languages": ["mya"],
     "name": "Myanmar",
     "status": "assigned",
     "provinces": null,
@@ -6522,16 +4926,10 @@
   {
     "alpha2": "MN",
     "alpha3": "MNG",
-    "countryCallingCodes": [
-      "+976"
-    ],
-    "currencies": [
-      "MNT"
-    ],
+    "countryCallingCodes": ["+976"],
+    "currencies": ["MNT"],
     "ioc": "MGL",
-    "languages": [
-      "mon"
-    ],
+    "languages": ["mon"],
     "name": "Mongolia",
     "status": "assigned",
     "provinces": null,
@@ -6540,17 +4938,10 @@
   {
     "alpha2": "MO",
     "alpha3": "MAC",
-    "countryCallingCodes": [
-      "+853"
-    ],
-    "currencies": [
-      "MOP"
-    ],
+    "countryCallingCodes": ["+853"],
+    "currencies": ["MOP"],
     "ioc": "MAC",
-    "languages": [
-      "zho",
-      "por"
-    ],
+    "languages": ["zho", "por"],
     "name": "Macao",
     "status": "assigned",
     "provinces": null,
@@ -6559,16 +4950,10 @@
   {
     "alpha2": "MP",
     "alpha3": "MNP",
-    "countryCallingCodes": [
-      "+1 670"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1 670"],
+    "currencies": ["USD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Northern Mariana Islands",
     "status": "assigned",
     "provinces": null,
@@ -6577,12 +4962,8 @@
   {
     "alpha2": "MQ",
     "alpha3": "MTQ",
-    "countryCallingCodes": [
-      "+596"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+596"],
+    "currencies": ["EUR"],
     "ioc": "",
     "languages": [],
     "name": "Martinique",
@@ -6593,17 +4974,10 @@
   {
     "alpha2": "MR",
     "alpha3": "MRT",
-    "countryCallingCodes": [
-      "+222"
-    ],
-    "currencies": [
-      "MRO"
-    ],
+    "countryCallingCodes": ["+222"],
+    "currencies": ["MRO"],
     "ioc": "MTN",
-    "languages": [
-      "ara",
-      "fra"
-    ],
+    "languages": ["ara", "fra"],
     "name": "Mauritania",
     "status": "assigned",
     "provinces": null,
@@ -6612,12 +4986,8 @@
   {
     "alpha2": "MS",
     "alpha3": "MSR",
-    "countryCallingCodes": [
-      "+1 664"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+1 664"],
+    "currencies": ["XCD"],
     "ioc": "",
     "languages": [],
     "name": "Montserrat",
@@ -6628,17 +4998,10 @@
   {
     "alpha2": "MT",
     "alpha3": "MLT",
-    "countryCallingCodes": [
-      "+356"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+356"],
+    "currencies": ["EUR"],
     "ioc": "MLT",
-    "languages": [
-      "mlt",
-      "eng"
-    ],
+    "languages": ["mlt", "eng"],
     "name": "Malta",
     "status": "assigned",
     "provinces": null,
@@ -6647,17 +5010,10 @@
   {
     "alpha2": "MU",
     "alpha3": "MUS",
-    "countryCallingCodes": [
-      "+230"
-    ],
-    "currencies": [
-      "MUR"
-    ],
+    "countryCallingCodes": ["+230"],
+    "currencies": ["MUR"],
     "ioc": "MRI",
-    "languages": [
-      "eng",
-      "fra"
-    ],
+    "languages": ["eng", "fra"],
     "name": "Mauritius",
     "status": "assigned",
     "provinces": null,
@@ -6666,16 +5022,10 @@
   {
     "alpha2": "MV",
     "alpha3": "MDV",
-    "countryCallingCodes": [
-      "+960"
-    ],
-    "currencies": [
-      "MVR"
-    ],
+    "countryCallingCodes": ["+960"],
+    "currencies": ["MVR"],
     "ioc": "MDV",
-    "languages": [
-      "div"
-    ],
+    "languages": ["div"],
     "name": "Maldives",
     "status": "assigned",
     "provinces": null,
@@ -6684,17 +5034,10 @@
   {
     "alpha2": "MW",
     "alpha3": "MWI",
-    "countryCallingCodes": [
-      "+265"
-    ],
-    "currencies": [
-      "MWK"
-    ],
+    "countryCallingCodes": ["+265"],
+    "currencies": ["MWK"],
     "ioc": "MAW",
-    "languages": [
-      "eng",
-      "nya"
-    ],
+    "languages": ["eng", "nya"],
     "name": "Malawi",
     "status": "assigned",
     "provinces": null,
@@ -6703,267 +5046,172 @@
   {
     "alpha2": "MX",
     "alpha3": "MEX",
-    "countryCallingCodes": [
-      "+52"
-    ],
-    "currencies": [
-      "MXN",
-      "MXV"
-    ],
+    "countryCallingCodes": ["+52"],
+    "currencies": ["MXN", "MXV"],
     "ioc": "MEX",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Mexico",
     "status": "assigned",
     "provinces": [
       {
         "name": "Aguascalientes",
         "short": "AG",
-        "alias": [
-          "AGS"
-        ]
+        "alias": ["AGS"]
       },
       {
         "name": "Baja California",
         "short": "BC",
-        "alias": [
-          "BCN"
-        ]
+        "alias": ["BCN"]
       },
       {
         "name": "Baja California Sur",
         "short": "BS",
-        "alias": [
-          "BCS"
-        ]
+        "alias": ["BCS"]
       },
       {
         "name": "Campeche",
         "short": "CM",
-        "alias": [
-          "Camp",
-          "CAM"
-        ]
+        "alias": ["Camp", "CAM"]
       },
       {
         "name": "Chiapas",
         "short": "CS",
-        "alias": [
-          "Chis",
-          "CHP"
-        ]
+        "alias": ["Chis", "CHP"]
       },
       {
         "name": "Chihuahua",
         "short": "CH",
-        "alias": [
-          "Chih",
-          "CHH"
-        ]
+        "alias": ["Chih", "CHH"]
       },
       {
         "name": "Coahuila",
         "short": "MX",
-        "alias": [
-          "Coah",
-          "COA"
-        ]
+        "alias": ["Coah", "COA"]
       },
       {
         "name": "Colima",
         "short": "CL",
-        "alias": [
-          "COL"
-        ]
+        "alias": ["COL"]
       },
       {
         "name": "Federal District",
         "short": "DF",
-        "alias": [
-          "DIF"
-        ]
+        "alias": ["DIF"]
       },
       {
         "name": "Durango",
         "short": "DG",
-        "alias": [
-          "Dgo",
-          "DUR"
-        ]
+        "alias": ["Dgo", "DUR"]
       },
       {
         "name": "Guanajuato",
         "short": "GT",
-        "alias": [
-          "Gto",
-          "GUA"
-        ]
+        "alias": ["Gto", "GUA"]
       },
       {
         "name": "Guerrero",
         "short": "GR",
-        "alias": [
-          "Gro",
-          "GRO"
-        ]
+        "alias": ["Gro", "GRO"]
       },
       {
         "name": "Hidalgo",
         "short": "HG",
-        "alias": [
-          "Hgo",
-          "HID"
-        ]
+        "alias": ["Hgo", "HID"]
       },
       {
         "name": "Jalisco",
         "short": "JA",
-        "alias": [
-          "Jal",
-          "JAL"
-        ]
+        "alias": ["Jal", "JAL"]
       },
       {
         "name": "Mexico",
         "short": "ME",
-        "alias": [
-          "Edomex",
-          "MEX"
-        ]
+        "alias": ["Edomex", "MEX"]
       },
       {
         "name": "Michoacán",
         "short": "MI",
-        "alias": [
-          "Mich",
-          "MIC",
-          "Michoacan"
-        ]
+        "alias": ["Mich", "MIC", "Michoacan"]
       },
       {
         "name": "Morelos",
         "short": "MO",
-        "alias": [
-          "Mor",
-          "MOR"
-        ]
+        "alias": ["Mor", "MOR"]
       },
       {
         "name": "Nayarit",
         "short": "NA",
-        "alias": [
-          "Nay",
-          "NAY"
-        ]
+        "alias": ["Nay", "NAY"]
       },
       {
         "name": "Nuevo León",
         "short": "NL",
-        "alias": [
-          "NLE",
-          "Nuevo Leon"
-        ]
+        "alias": ["NLE", "Nuevo Leon"]
       },
       {
         "name": "Oaxaca",
         "short": "OA",
-        "alias": [
-          "Oax",
-          "OAX"
-        ]
+        "alias": ["Oax", "OAX"]
       },
       {
         "name": "Puebla",
         "short": "PU",
-        "alias": [
-          "Pue",
-          "PUE"
-        ]
+        "alias": ["Pue", "PUE"]
       },
       {
         "name": "Querétaro",
         "short": "QE",
-        "alias": [
-          "Qro",
-          "QUE",
-          "Queretaro"
-        ]
+        "alias": ["Qro", "QUE", "Queretaro"]
       },
       {
         "name": "Quintana Roo",
         "short": "QR",
-        "alias": [
-          "Q Roo",
-          "ROO"
-        ]
+        "alias": ["Q Roo", "ROO"]
       },
       {
         "name": "San Luis Potosí",
         "short": "SL",
-        "alias": [
-          "SLP",
-          "San Luis Potosi"
-        ]
+        "alias": ["SLP", "San Luis Potosi"]
       },
       {
         "name": "Sinaloa",
         "short": "SI",
-        "alias": [
-          "SIN"
-        ]
+        "alias": ["SIN"]
       },
       {
         "name": "Sonora",
         "short": "SO",
-        "alias": [
-          "SON"
-        ]
+        "alias": ["SON"]
       },
       {
         "name": "Tabasco",
         "short": "TB",
-        "alias": [
-          "TAB"
-        ]
+        "alias": ["TAB"]
       },
       {
         "name": "Tamaulipas",
         "short": "TM",
-        "alias": [
-          "Tamps",
-          "TAM"
-        ]
+        "alias": ["Tamps", "TAM"]
       },
       {
         "name": "Tlaxcala",
         "short": "TL",
-        "alias": [
-          "Tlax",
-          "TLA"
-        ]
+        "alias": ["Tlax", "TLA"]
       },
       {
         "name": "Veracruz",
         "short": "VE",
-        "alias": [
-          "VER"
-        ]
+        "alias": ["VER"]
       },
       {
         "name": "Yucatán",
         "short": "YU",
-        "alias": [
-          "YUC",
-          "Yucatan"
-        ]
+        "alias": ["YUC", "Yucatan"]
       },
       {
         "name": "Zacatecas",
         "short": "ZA",
-        "alias": [
-          "ZAC"
-        ]
+        "alias": ["ZAC"]
       }
     ],
     "alias": null
@@ -6971,17 +5219,10 @@
   {
     "alpha2": "MY",
     "alpha3": "MYS",
-    "countryCallingCodes": [
-      "+60"
-    ],
-    "currencies": [
-      "MYR"
-    ],
+    "countryCallingCodes": ["+60"],
+    "currencies": ["MYR"],
     "ioc": "MAS",
-    "languages": [
-      "msa",
-      "eng"
-    ],
+    "languages": ["msa", "eng"],
     "name": "Malaysia",
     "status": "assigned",
     "provinces": null,
@@ -6990,16 +5231,10 @@
   {
     "alpha2": "MZ",
     "alpha3": "MOZ",
-    "countryCallingCodes": [
-      "+258"
-    ],
-    "currencies": [
-      "MZN"
-    ],
+    "countryCallingCodes": ["+258"],
+    "currencies": ["MZN"],
     "ioc": "MOZ",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "Mozambique",
     "status": "assigned",
     "provinces": null,
@@ -7008,17 +5243,10 @@
   {
     "alpha2": "NA",
     "alpha3": "NAM",
-    "countryCallingCodes": [
-      "+264"
-    ],
-    "currencies": [
-      "NAD",
-      "ZAR"
-    ],
+    "countryCallingCodes": ["+264"],
+    "currencies": ["NAD", "ZAR"],
     "ioc": "NAM",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Namibia",
     "status": "assigned",
     "provinces": null,
@@ -7027,16 +5255,10 @@
   {
     "alpha2": "NC",
     "alpha3": "NCL",
-    "countryCallingCodes": [
-      "+687"
-    ],
-    "currencies": [
-      "XPF"
-    ],
+    "countryCallingCodes": ["+687"],
+    "currencies": ["XPF"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "New Caledonia",
     "status": "assigned",
     "provinces": null,
@@ -7045,16 +5267,10 @@
   {
     "alpha2": "NE",
     "alpha3": "NER",
-    "countryCallingCodes": [
-      "+227"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+227"],
+    "currencies": ["XOF"],
     "ioc": "NIG",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Niger",
     "status": "assigned",
     "provinces": null,
@@ -7063,16 +5279,10 @@
   {
     "alpha2": "NF",
     "alpha3": "NFK",
-    "countryCallingCodes": [
-      "+672"
-    ],
-    "currencies": [
-      "AUD"
-    ],
+    "countryCallingCodes": ["+672"],
+    "currencies": ["AUD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Norfolk Island",
     "status": "assigned",
     "provinces": null,
@@ -7081,16 +5291,10 @@
   {
     "alpha2": "NG",
     "alpha3": "NGA",
-    "countryCallingCodes": [
-      "+234"
-    ],
-    "currencies": [
-      "NGN"
-    ],
+    "countryCallingCodes": ["+234"],
+    "currencies": ["NGN"],
     "ioc": "NGR",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Nigeria",
     "status": "assigned",
     "provinces": [
@@ -7160,16 +5364,10 @@
   {
     "alpha2": "NI",
     "alpha3": "NIC",
-    "countryCallingCodes": [
-      "+505"
-    ],
-    "currencies": [
-      "NIO"
-    ],
+    "countryCallingCodes": ["+505"],
+    "currencies": ["NIO"],
     "ioc": "NCA",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Nicaragua",
     "status": "assigned",
     "provinces": null,
@@ -7178,16 +5376,10 @@
   {
     "alpha2": "NL",
     "alpha3": "NLD",
-    "countryCallingCodes": [
-      "+31"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+31"],
+    "currencies": ["EUR"],
     "ioc": "NED",
-    "languages": [
-      "nld"
-    ],
+    "languages": ["nld"],
     "name": "Netherlands",
     "status": "assigned",
     "provinces": [
@@ -7224,16 +5416,12 @@
       {
         "short": "NB",
         "name": "Noord-Brabant",
-        "alias": [
-          "Noord Brabant"
-        ]
+        "alias": ["Noord Brabant"]
       },
       {
         "short": "NH",
         "name": "Noord-Holland",
-        "alias": [
-          "Noord Holland"
-        ]
+        "alias": ["Noord Holland"]
       },
       {
         "short": "OV",
@@ -7248,9 +5436,7 @@
       {
         "short": "ZH",
         "name": "Zuid-Holland",
-        "alias": [
-          "Zuid Holland"
-        ]
+        "alias": ["Zuid Holland"]
       },
       {
         "short": "ZL",
@@ -7293,16 +5479,10 @@
   {
     "alpha2": "NO",
     "alpha3": "NOR",
-    "countryCallingCodes": [
-      "+47"
-    ],
-    "currencies": [
-      "NOK"
-    ],
+    "countryCallingCodes": ["+47"],
+    "currencies": ["NOK"],
     "ioc": "NOR",
-    "languages": [
-      "nor"
-    ],
+    "languages": ["nor"],
     "name": "Norway",
     "status": "assigned",
     "provinces": null,
@@ -7311,16 +5491,10 @@
   {
     "alpha2": "NP",
     "alpha3": "NPL",
-    "countryCallingCodes": [
-      "+977"
-    ],
-    "currencies": [
-      "NPR"
-    ],
+    "countryCallingCodes": ["+977"],
+    "currencies": ["NPR"],
     "ioc": "NEP",
-    "languages": [
-      "nep"
-    ],
+    "languages": ["nep"],
     "name": "Nepal",
     "status": "assigned",
     "provinces": null,
@@ -7341,17 +5515,10 @@
   {
     "alpha2": "NR",
     "alpha3": "NRU",
-    "countryCallingCodes": [
-      "+674"
-    ],
-    "currencies": [
-      "AUD"
-    ],
+    "countryCallingCodes": ["+674"],
+    "currencies": ["AUD"],
     "ioc": "NRU",
-    "languages": [
-      "eng",
-      "nau"
-    ],
+    "languages": ["eng", "nau"],
     "name": "Nauru",
     "status": "assigned",
     "provinces": null,
@@ -7372,16 +5539,10 @@
   {
     "alpha2": "NU",
     "alpha3": "NIU",
-    "countryCallingCodes": [
-      "+683"
-    ],
-    "currencies": [
-      "NZD"
-    ],
+    "countryCallingCodes": ["+683"],
+    "currencies": ["NZD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Niue",
     "status": "assigned",
     "provinces": null,
@@ -7390,16 +5551,10 @@
   {
     "alpha2": "NZ",
     "alpha3": "NZL",
-    "countryCallingCodes": [
-      "+64"
-    ],
-    "currencies": [
-      "NZD"
-    ],
+    "countryCallingCodes": ["+64"],
+    "currencies": ["NZD"],
     "ioc": "NZL",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "New Zealand",
     "status": "assigned",
     "provinces": null,
@@ -7408,16 +5563,10 @@
   {
     "alpha2": "OM",
     "alpha3": "OMN",
-    "countryCallingCodes": [
-      "+968"
-    ],
-    "currencies": [
-      "OMR"
-    ],
+    "countryCallingCodes": ["+968"],
+    "currencies": ["OMR"],
     "ioc": "OMA",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Oman",
     "status": "assigned",
     "provinces": null,
@@ -7426,17 +5575,10 @@
   {
     "alpha2": "PA",
     "alpha3": "PAN",
-    "countryCallingCodes": [
-      "+507"
-    ],
-    "currencies": [
-      "PAB",
-      "USD"
-    ],
+    "countryCallingCodes": ["+507"],
+    "currencies": ["PAB", "USD"],
     "ioc": "PAN",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Panama",
     "status": "assigned",
     "provinces": null,
@@ -7457,18 +5599,10 @@
   {
     "alpha2": "PE",
     "alpha3": "PER",
-    "countryCallingCodes": [
-      "+51"
-    ],
-    "currencies": [
-      "PEN"
-    ],
+    "countryCallingCodes": ["+51"],
+    "currencies": ["PEN"],
     "ioc": "PER",
-    "languages": [
-      "spa",
-      "aym",
-      "que"
-    ],
+    "languages": ["spa", "aym", "que"],
     "name": "Peru",
     "status": "assigned",
     "provinces": [
@@ -7485,9 +5619,7 @@
       {
         "name": "Bongará",
         "region": "Amazonas",
-        "alias": [
-          "Bongara"
-        ]
+        "alias": ["Bongara"]
       },
       {
         "name": "Condorcanqui",
@@ -7502,9 +5634,7 @@
       {
         "name": "Rodríguez de Mendoza",
         "region": "Amazonas",
-        "alias": [
-          "Rodriguez de Mendoza"
-        ]
+        "alias": ["Rodriguez de Mendoza"]
       },
       {
         "name": "Utcubamba",
@@ -7529,9 +5659,7 @@
       {
         "name": "Asunción",
         "region": "Ancash",
-        "alias": [
-          "Asuncion"
-        ]
+        "alias": ["Asuncion"]
       },
       {
         "name": "Bolognesi",
@@ -7546,9 +5674,7 @@
       {
         "name": "Carlos Fermín Fitzcarrald",
         "region": "Ancash",
-        "alias": [
-          "Carlos Fermin Fitzcarrald"
-        ]
+        "alias": ["Carlos Fermin Fitzcarrald"]
       },
       {
         "name": "Casma",
@@ -7658,16 +5784,12 @@
       {
         "name": "Camaná",
         "region": "Arequipa",
-        "alias": [
-          "Camana"
-        ]
+        "alias": ["Camana"]
       },
       {
         "name": "Caravelí",
         "region": "Arequipa",
-        "alias": [
-          "Caraveli"
-        ]
+        "alias": ["Caraveli"]
       },
       {
         "name": "Castilla",
@@ -7692,9 +5814,7 @@
       {
         "name": "La Unión",
         "region": "Arequipa",
-        "alias": [
-          "La Union"
-        ]
+        "alias": ["La Union"]
       },
       {
         "name": "Huamanga",
@@ -7734,9 +5854,7 @@
       {
         "name": "Páucar del Sara Sara",
         "region": "Ayacucho",
-        "alias": [
-          "Paucar del Sara Sara"
-        ]
+        "alias": ["Paucar del Sara Sara"]
       },
       {
         "name": "Sucre",
@@ -7746,16 +5864,12 @@
       {
         "name": "Víctor Fajardo",
         "region": "Ayacucho",
-        "alias": [
-          "Victor Fajardo"
-        ]
+        "alias": ["Victor Fajardo"]
       },
       {
         "name": "Vilcas Huamán",
         "region": "Ayacucho",
-        "alias": [
-          "Vilcas Huaman"
-        ]
+        "alias": ["Vilcas Huaman"]
       },
       {
         "name": "Cajamarca",
@@ -7770,9 +5884,7 @@
       {
         "name": "Celendín",
         "region": "Cajamarca",
-        "alias": [
-          "Celendin"
-        ]
+        "alias": ["Celendin"]
       },
       {
         "name": "Chota",
@@ -7782,9 +5894,7 @@
       {
         "name": "Contumazá",
         "region": "Cajamarca",
-        "alias": [
-          "Contumaza"
-        ]
+        "alias": ["Contumaza"]
       },
       {
         "name": "Cutervo",
@@ -7799,9 +5909,7 @@
       {
         "name": "Jaén",
         "region": "Cajamarca",
-        "alias": [
-          "Jaen"
-        ]
+        "alias": ["Jaen"]
       },
       {
         "name": "San Ignacio",
@@ -7876,9 +5984,7 @@
       {
         "name": "La Convención",
         "region": "Cusco",
-        "alias": [
-          "La Convencion"
-        ]
+        "alias": ["La Convencion"]
       },
       {
         "name": "Paruro",
@@ -7928,9 +6034,7 @@
       {
         "name": "Huaytará",
         "region": "Huancavelica",
-        "alias": [
-          "Huaytara"
-        ]
+        "alias": ["Huaytara"]
       },
       {
         "name": "Tayacaja",
@@ -7940,9 +6044,7 @@
       {
         "name": "Huánuco",
         "region": "Huánuco",
-        "alias": [
-          "Huanuco"
-        ]
+        "alias": ["Huanuco"]
       },
       {
         "name": "Ambo",
@@ -7962,9 +6064,7 @@
       {
         "name": "Huamalíes",
         "region": "Huánuco",
-        "alias": [
-          "Huamalies"
-        ]
+        "alias": ["Huamalies"]
       },
       {
         "name": "Leoncio Prado",
@@ -7974,9 +6074,7 @@
       {
         "name": "Marañón",
         "region": "Huánuco",
-        "alias": [
-          "Maranon"
-        ]
+        "alias": ["Maranon"]
       },
       {
         "name": "Pachitea",
@@ -8031,9 +6129,7 @@
       {
         "name": "Concepción",
         "region": "Junín",
-        "alias": [
-          "Concepcion"
-        ]
+        "alias": ["Concepcion"]
       },
       {
         "name": "Chanchamayo",
@@ -8048,9 +6144,7 @@
       {
         "name": "Junín",
         "region": "Junín",
-        "alias": [
-          "Junin"
-        ]
+        "alias": ["Junin"]
       },
       {
         "name": "Satipo",
@@ -8085,23 +6179,17 @@
       {
         "name": "Bolívar",
         "region": "La Libertad",
-        "alias": [
-          "Bolivar"
-        ]
+        "alias": ["Bolivar"]
       },
       {
         "name": "Chepén",
         "region": "La Libertad",
-        "alias": [
-          "Chepen"
-        ]
+        "alias": ["Chepen"]
       },
       {
         "name": "Julcán",
         "region": "La Libertad",
-        "alias": [
-          "Julcan"
-        ]
+        "alias": ["Julcan"]
       },
       {
         "name": "Otuzco",
@@ -8121,9 +6209,7 @@
       {
         "name": "Sánchez Carrión",
         "region": "La Libertad",
-        "alias": [
-          "Sanchez Carrion"
-        ]
+        "alias": ["Sanchez Carrion"]
       },
       {
         "name": "Santiago de Chuco",
@@ -8133,16 +6219,12 @@
       {
         "name": "Gran Chimú",
         "region": "La Libertad",
-        "alias": [
-          "Gran Chimu"
-        ]
+        "alias": ["Gran Chimu"]
       },
       {
         "name": "Virú",
         "region": "La Libertad",
-        "alias": [
-          "Viru"
-        ]
+        "alias": ["Viru"]
       },
       {
         "name": "Chiclayo",
@@ -8152,9 +6234,7 @@
       {
         "name": "Ferreñafe",
         "region": "Lambayeque",
-        "alias": [
-          "Ferrenafe"
-        ]
+        "alias": ["Ferrenafe"]
       },
       {
         "name": "Lambayeque",
@@ -8189,9 +6269,7 @@
       {
         "name": "Cañete",
         "region": "Lima",
-        "alias": [
-          "Canete"
-        ]
+        "alias": ["Canete"]
       },
       {
         "name": "Huaral",
@@ -8206,9 +6284,7 @@
       {
         "name": "Oyón",
         "region": "Lima",
-        "alias": [
-          "Oyon"
-        ]
+        "alias": ["Oyon"]
       },
       {
         "name": "Yauyos",
@@ -8233,9 +6309,7 @@
       {
         "name": "Mariscal Ramón Castilla",
         "region": "Loreto",
-        "alias": [
-          "Mariscal Ramon Castilla"
-        ]
+        "alias": ["Mariscal Ramon Castilla"]
       },
       {
         "name": "Putumayo",
@@ -8255,9 +6329,7 @@
       {
         "name": "Datem del Marañón",
         "region": "Loreto",
-        "alias": [
-          "Datem del Maranon"
-        ]
+        "alias": ["Datem del Maranon"]
       },
       {
         "name": "Tambopata",
@@ -8267,9 +6339,7 @@
       {
         "name": "Manú",
         "region": "Madre de Dios",
-        "alias": [
-          "Manu"
-        ]
+        "alias": ["Manu"]
       },
       {
         "name": "Tahuamanu",
@@ -8284,9 +6354,7 @@
       {
         "name": "General Sánchez Cerro",
         "region": "Moquegua",
-        "alias": [
-          "General Sanchez Cerro"
-        ]
+        "alias": ["General Sanchez Cerro"]
       },
       {
         "name": "Ilo",
@@ -8301,9 +6369,7 @@
       {
         "name": "Daniel Alcídes Carrión",
         "region": "Pasco",
-        "alias": [
-          "Daniel Alcides Carrion"
-        ]
+        "alias": ["Daniel Alcides Carrion"]
       },
       {
         "name": "Oxapampa",
@@ -8328,9 +6394,7 @@
       {
         "name": "Morropón",
         "region": "Piura",
-        "alias": [
-          "Morropon"
-        ]
+        "alias": ["Morropon"]
       },
       {
         "name": "Paita",
@@ -8360,9 +6424,7 @@
       {
         "name": "Azángaro",
         "region": "Puno",
-        "alias": [
-          "Azangaro"
-        ]
+        "alias": ["Azangaro"]
       },
       {
         "name": "Carabaya",
@@ -8382,9 +6444,7 @@
       {
         "name": "Huancané",
         "region": "Puno",
-        "alias": [
-          "Huancane"
-        ]
+        "alias": ["Huancane"]
       },
       {
         "name": "Lampa",
@@ -8409,9 +6469,7 @@
       {
         "name": "San Román",
         "region": "Puno",
-        "alias": [
-          "San Roman"
-        ]
+        "alias": ["San Roman"]
       },
       {
         "name": "Sandia",
@@ -8451,9 +6509,7 @@
       {
         "name": "Mariscal Cáceres",
         "region": "San Martín",
-        "alias": [
-          "Mariscal Caceres"
-        ]
+        "alias": ["Mariscal Caceres"]
       },
       {
         "name": "Picota",
@@ -8468,9 +6524,7 @@
       {
         "name": "San Martín",
         "region": "San Martín",
-        "alias": [
-          "San Martin"
-        ]
+        "alias": ["San Martin"]
       },
       {
         "name": "Tocache",
@@ -8530,9 +6584,7 @@
       {
         "name": "Purús",
         "region": "Ucayali",
-        "alias": [
-          "Purus"
-        ]
+        "alias": ["Purus"]
       }
     ],
     "alias": null
@@ -8540,16 +6592,10 @@
   {
     "alpha2": "PF",
     "alpha3": "PYF",
-    "countryCallingCodes": [
-      "+689"
-    ],
-    "currencies": [
-      "XPF"
-    ],
+    "countryCallingCodes": ["+689"],
+    "currencies": ["XPF"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "French Polynesia",
     "status": "assigned",
     "provinces": null,
@@ -8558,16 +6604,10 @@
   {
     "alpha2": "PG",
     "alpha3": "PNG",
-    "countryCallingCodes": [
-      "+675"
-    ],
-    "currencies": [
-      "PGK"
-    ],
+    "countryCallingCodes": ["+675"],
+    "currencies": ["PGK"],
     "ioc": "PNG",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Papua New Guinea",
     "status": "assigned",
     "provinces": null,
@@ -8576,16 +6616,10 @@
   {
     "alpha2": "PH",
     "alpha3": "PHL",
-    "countryCallingCodes": [
-      "+63"
-    ],
-    "currencies": [
-      "PHP"
-    ],
+    "countryCallingCodes": ["+63"],
+    "currencies": ["PHP"],
     "ioc": "PHI",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Philippines",
     "status": "assigned",
     "provinces": [
@@ -8895,9 +6929,7 @@
       },
       {
         "name": "Tawi-Tawi",
-        "alias": [
-          "Tawi Tawi"
-        ]
+        "alias": ["Tawi Tawi"]
       },
       {
         "name": "Zambales",
@@ -8925,17 +6957,10 @@
   {
     "alpha2": "PK",
     "alpha3": "PAK",
-    "countryCallingCodes": [
-      "+92"
-    ],
-    "currencies": [
-      "PKR"
-    ],
+    "countryCallingCodes": ["+92"],
+    "currencies": ["PKR"],
     "ioc": "PAK",
-    "languages": [
-      "urd",
-      "eng"
-    ],
+    "languages": ["urd", "eng"],
     "name": "Pakistan",
     "status": "assigned",
     "provinces": [
@@ -8965,10 +6990,7 @@
       },
       {
         "name": "Federally Administered Tribal Areas",
-        "alias": [
-          "FATA",
-          "F.A.T.A."
-        ]
+        "alias": ["FATA", "F.A.T.A."]
       },
       {
         "name": "Gujranwala",
@@ -9072,16 +7094,10 @@
   {
     "alpha2": "PL",
     "alpha3": "POL",
-    "countryCallingCodes": [
-      "+48"
-    ],
-    "currencies": [
-      "PLN"
-    ],
+    "countryCallingCodes": ["+48"],
+    "currencies": ["PLN"],
     "ioc": "POL",
-    "languages": [
-      "pol"
-    ],
+    "languages": ["pol"],
     "name": "Poland",
     "status": "assigned",
     "provinces": null,
@@ -9090,16 +7106,10 @@
   {
     "alpha2": "PM",
     "alpha3": "SPM",
-    "countryCallingCodes": [
-      "+508"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+508"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Saint Pierre And Miquelon",
     "status": "assigned",
     "provinces": null,
@@ -9108,16 +7118,10 @@
   {
     "alpha2": "PN",
     "alpha3": "PCN",
-    "countryCallingCodes": [
-      "+872"
-    ],
-    "currencies": [
-      "NZD"
-    ],
+    "countryCallingCodes": ["+872"],
+    "currencies": ["NZD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Pitcairn",
     "status": "assigned",
     "provinces": null,
@@ -9126,18 +7130,10 @@
   {
     "alpha2": "PR",
     "alpha3": "PRI",
-    "countryCallingCodes": [
-      "+1 787",
-      "+1 939"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1 787", "+1 939"],
+    "currencies": ["USD"],
     "ioc": "PUR",
-    "languages": [
-      "spa",
-      "eng"
-    ],
+    "languages": ["spa", "eng"],
     "name": "Puerto Rico",
     "status": "assigned",
     "provinces": null,
@@ -9146,18 +7142,10 @@
   {
     "alpha2": "PS",
     "alpha3": "PSE",
-    "countryCallingCodes": [
-      "+970"
-    ],
-    "currencies": [
-      "JOD",
-      "EGP",
-      "ILS"
-    ],
+    "countryCallingCodes": ["+970"],
+    "currencies": ["JOD", "EGP", "ILS"],
     "ioc": "PLE",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Palestinian Territory, Occupied",
     "status": "assigned",
     "provinces": null,
@@ -9166,16 +7154,10 @@
   {
     "alpha2": "PT",
     "alpha3": "PRT",
-    "countryCallingCodes": [
-      "+351"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+351"],
+    "currencies": ["EUR"],
     "ioc": "POR",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "Portugal",
     "status": "assigned",
     "provinces": null,
@@ -9196,16 +7178,10 @@
   {
     "alpha2": "PW",
     "alpha3": "PLW",
-    "countryCallingCodes": [
-      "+680"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+680"],
+    "currencies": ["USD"],
     "ioc": "PLW",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Palau",
     "status": "assigned",
     "provinces": null,
@@ -9214,16 +7190,10 @@
   {
     "alpha2": "PY",
     "alpha3": "PRY",
-    "countryCallingCodes": [
-      "+595"
-    ],
-    "currencies": [
-      "PYG"
-    ],
+    "countryCallingCodes": ["+595"],
+    "currencies": ["PYG"],
     "ioc": "PAR",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Paraguay",
     "status": "assigned",
     "provinces": null,
@@ -9244,16 +7214,10 @@
   {
     "alpha2": "QA",
     "alpha3": "QAT",
-    "countryCallingCodes": [
-      "+974"
-    ],
-    "currencies": [
-      "QAR"
-    ],
+    "countryCallingCodes": ["+974"],
+    "currencies": ["QAR"],
     "ioc": "QAT",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Qatar",
     "status": "assigned",
     "provinces": null,
@@ -9262,16 +7226,10 @@
   {
     "alpha2": "RE",
     "alpha3": "REU",
-    "countryCallingCodes": [
-      "+262"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+262"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Reunion",
     "status": "assigned",
     "provinces": null,
@@ -9292,16 +7250,10 @@
   {
     "alpha2": "RO",
     "alpha3": "ROU",
-    "countryCallingCodes": [
-      "+40"
-    ],
-    "currencies": [
-      "RON"
-    ],
+    "countryCallingCodes": ["+40"],
+    "currencies": ["RON"],
     "ioc": "ROU",
-    "languages": [
-      "ron"
-    ],
+    "languages": ["ron"],
     "name": "Romania",
     "status": "assigned",
     "provinces": null,
@@ -9310,16 +7262,10 @@
   {
     "alpha2": "RS",
     "alpha3": "SRB",
-    "countryCallingCodes": [
-      "+381"
-    ],
-    "currencies": [
-      "RSD"
-    ],
+    "countryCallingCodes": ["+381"],
+    "currencies": ["RSD"],
     "ioc": "SRB",
-    "languages": [
-      "srp"
-    ],
+    "languages": ["srp"],
     "name": "Serbia",
     "status": "assigned",
     "provinces": null,
@@ -9328,19 +7274,10 @@
   {
     "alpha2": "RU",
     "alpha3": "RUS",
-    "countryCallingCodes": [
-      "+7",
-      "+7 3",
-      "+7 4",
-      "+7 8"
-    ],
-    "currencies": [
-      "RUB"
-    ],
+    "countryCallingCodes": ["+7", "+7 3", "+7 4", "+7 8"],
+    "currencies": ["RUB"],
     "ioc": "RUS",
-    "languages": [
-      "rus"
-    ],
+    "languages": ["rus"],
     "name": "Russia",
     "status": "assigned",
     "provinces": null,
@@ -9349,18 +7286,10 @@
   {
     "alpha2": "RW",
     "alpha3": "RWA",
-    "countryCallingCodes": [
-      "+250"
-    ],
-    "currencies": [
-      "RWF"
-    ],
+    "countryCallingCodes": ["+250"],
+    "currencies": ["RWF"],
     "ioc": "RWA",
-    "languages": [
-      "eng",
-      "fra",
-      "kin"
-    ],
+    "languages": ["eng", "fra", "kin"],
     "name": "Rwanda",
     "status": "assigned",
     "provinces": null,
@@ -9369,16 +7298,10 @@
   {
     "alpha2": "SA",
     "alpha3": "SAU",
-    "countryCallingCodes": [
-      "+966"
-    ],
-    "currencies": [
-      "SAR"
-    ],
+    "countryCallingCodes": ["+966"],
+    "currencies": ["SAR"],
     "ioc": "KSA",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Saudi Arabia",
     "status": "assigned",
     "provinces": null,
@@ -9387,16 +7310,10 @@
   {
     "alpha2": "SB",
     "alpha3": "SLB",
-    "countryCallingCodes": [
-      "+677"
-    ],
-    "currencies": [
-      "SBD"
-    ],
+    "countryCallingCodes": ["+677"],
+    "currencies": ["SBD"],
     "ioc": "SOL",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Solomon Islands",
     "status": "assigned",
     "provinces": null,
@@ -9405,17 +7322,10 @@
   {
     "alpha2": "SC",
     "alpha3": "SYC",
-    "countryCallingCodes": [
-      "+248"
-    ],
-    "currencies": [
-      "SCR"
-    ],
+    "countryCallingCodes": ["+248"],
+    "currencies": ["SCR"],
     "ioc": "SEY",
-    "languages": [
-      "eng",
-      "fra"
-    ],
+    "languages": ["eng", "fra"],
     "name": "Seychelles",
     "status": "assigned",
     "provinces": null,
@@ -9424,17 +7334,10 @@
   {
     "alpha2": "SD",
     "alpha3": "SDN",
-    "countryCallingCodes": [
-      "+249"
-    ],
-    "currencies": [
-      "SDG"
-    ],
+    "countryCallingCodes": ["+249"],
+    "currencies": ["SDG"],
     "ioc": "SUD",
-    "languages": [
-      "ara",
-      "eng"
-    ],
+    "languages": ["ara", "eng"],
     "name": "Sudan",
     "status": "assigned",
     "provinces": null,
@@ -9443,16 +7346,10 @@
   {
     "alpha2": "SE",
     "alpha3": "SWE",
-    "countryCallingCodes": [
-      "+46"
-    ],
-    "currencies": [
-      "SEK"
-    ],
+    "countryCallingCodes": ["+46"],
+    "currencies": ["SEK"],
     "ioc": "SWE",
-    "languages": [
-      "swe"
-    ],
+    "languages": ["swe"],
     "name": "Sweden",
     "status": "assigned",
     "provinces": null,
@@ -9461,19 +7358,10 @@
   {
     "alpha2": "SG",
     "alpha3": "SGP",
-    "countryCallingCodes": [
-      "+65"
-    ],
-    "currencies": [
-      "SGD"
-    ],
+    "countryCallingCodes": ["+65"],
+    "currencies": ["SGD"],
     "ioc": "SIN",
-    "languages": [
-      "eng",
-      "zho",
-      "msa",
-      "tam"
-    ],
+    "languages": ["eng", "zho", "msa", "tam"],
     "name": "Singapore",
     "status": "assigned",
     "provinces": null,
@@ -9482,16 +7370,10 @@
   {
     "alpha2": "SH",
     "alpha3": "SHN",
-    "countryCallingCodes": [
-      "+290"
-    ],
-    "currencies": [
-      "SHP"
-    ],
+    "countryCallingCodes": ["+290"],
+    "currencies": ["SHP"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
     "status": "assigned",
     "provinces": null,
@@ -9500,16 +7382,10 @@
   {
     "alpha2": "SI",
     "alpha3": "SVN",
-    "countryCallingCodes": [
-      "+386"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+386"],
+    "currencies": ["EUR"],
     "ioc": "SLO",
-    "languages": [
-      "slv"
-    ],
+    "languages": ["slv"],
     "name": "Slovenia",
     "status": "assigned",
     "provinces": null,
@@ -9518,12 +7394,8 @@
   {
     "alpha2": "SJ",
     "alpha3": "SJM",
-    "countryCallingCodes": [
-      "+47"
-    ],
-    "currencies": [
-      "NOK"
-    ],
+    "countryCallingCodes": ["+47"],
+    "currencies": ["NOK"],
     "ioc": "",
     "languages": [],
     "name": "Svalbard And Jan Mayen",
@@ -9534,16 +7406,10 @@
   {
     "alpha2": "SK",
     "alpha3": "SVK",
-    "countryCallingCodes": [
-      "+421"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+421"],
+    "currencies": ["EUR"],
     "ioc": "SVK",
-    "languages": [
-      "slk"
-    ],
+    "languages": ["slk"],
     "name": "Slovakia",
     "status": "assigned",
     "provinces": null,
@@ -9564,16 +7430,10 @@
   {
     "alpha2": "SL",
     "alpha3": "SLE",
-    "countryCallingCodes": [
-      "+232"
-    ],
-    "currencies": [
-      "SLL"
-    ],
+    "countryCallingCodes": ["+232"],
+    "currencies": ["SLL"],
     "ioc": "SLE",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Sierra Leone",
     "status": "assigned",
     "provinces": null,
@@ -9582,16 +7442,10 @@
   {
     "alpha2": "SM",
     "alpha3": "SMR",
-    "countryCallingCodes": [
-      "+378"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+378"],
+    "currencies": ["EUR"],
     "ioc": "SMR",
-    "languages": [
-      "ita"
-    ],
+    "languages": ["ita"],
     "name": "San Marino",
     "status": "assigned",
     "provinces": null,
@@ -9600,16 +7454,10 @@
   {
     "alpha2": "SN",
     "alpha3": "SEN",
-    "countryCallingCodes": [
-      "+221"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+221"],
+    "currencies": ["XOF"],
     "ioc": "SEN",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Senegal",
     "status": "assigned",
     "provinces": null,
@@ -9618,16 +7466,10 @@
   {
     "alpha2": "SO",
     "alpha3": "SOM",
-    "countryCallingCodes": [
-      "+252"
-    ],
-    "currencies": [
-      "SOS"
-    ],
+    "countryCallingCodes": ["+252"],
+    "currencies": ["SOS"],
     "ioc": "SOM",
-    "languages": [
-      "som"
-    ],
+    "languages": ["som"],
     "name": "Somalia",
     "status": "assigned",
     "provinces": null,
@@ -9636,16 +7478,10 @@
   {
     "alpha2": "SR",
     "alpha3": "SUR",
-    "countryCallingCodes": [
-      "+597"
-    ],
-    "currencies": [
-      "SRD"
-    ],
+    "countryCallingCodes": ["+597"],
+    "currencies": ["SRD"],
     "ioc": "SUR",
-    "languages": [
-      "nld"
-    ],
+    "languages": ["nld"],
     "name": "Suriname",
     "status": "assigned",
     "provinces": null,
@@ -9654,16 +7490,10 @@
   {
     "alpha2": "SS",
     "alpha3": "SSD",
-    "countryCallingCodes": [
-      "+211"
-    ],
-    "currencies": [
-      "SSP"
-    ],
+    "countryCallingCodes": ["+211"],
+    "currencies": ["SSP"],
     "ioc": "SSD",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "South Sudan",
     "status": "assigned",
     "provinces": null,
@@ -9672,16 +7502,10 @@
   {
     "alpha2": "ST",
     "alpha3": "STP",
-    "countryCallingCodes": [
-      "+239"
-    ],
-    "currencies": [
-      "STD"
-    ],
+    "countryCallingCodes": ["+239"],
+    "currencies": ["STD"],
     "ioc": "STP",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "Sao Tome and Principe",
     "status": "assigned",
     "provinces": null,
@@ -9691,13 +7515,9 @@
     "alpha2": "SU",
     "alpha3": "",
     "countryCallingCodes": [],
-    "currencies": [
-      "RUB"
-    ],
+    "currencies": ["RUB"],
     "ioc": "",
-    "languages": [
-      "rus"
-    ],
+    "languages": ["rus"],
     "name": "USSR",
     "status": "reserved",
     "provinces": null,
@@ -9706,16 +7526,10 @@
   {
     "alpha2": "SV",
     "alpha3": "SLV",
-    "countryCallingCodes": [
-      "+503"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+503"],
+    "currencies": ["USD"],
     "ioc": "ESA",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "El Salvador",
     "status": "assigned",
     "provinces": null,
@@ -9724,16 +7538,10 @@
   {
     "alpha2": "SX",
     "alpha3": "SXM",
-    "countryCallingCodes": [
-      "+1 721"
-    ],
-    "currencies": [
-      "ANG"
-    ],
+    "countryCallingCodes": ["+1 721"],
+    "currencies": ["ANG"],
     "ioc": "",
-    "languages": [
-      "nld"
-    ],
+    "languages": ["nld"],
     "name": "Sint Maarten",
     "status": "assigned",
     "provinces": null,
@@ -9742,16 +7550,10 @@
   {
     "alpha2": "SY",
     "alpha3": "SYR",
-    "countryCallingCodes": [
-      "+963"
-    ],
-    "currencies": [
-      "SYP"
-    ],
+    "countryCallingCodes": ["+963"],
+    "currencies": ["SYP"],
     "ioc": "SYR",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Syria",
     "status": "assigned",
     "provinces": null,
@@ -9760,17 +7562,10 @@
   {
     "alpha2": "SZ",
     "alpha3": "SWZ",
-    "countryCallingCodes": [
-      "+268"
-    ],
-    "currencies": [
-      "SZL"
-    ],
+    "countryCallingCodes": ["+268"],
+    "currencies": ["SZL"],
     "ioc": "SWZ",
-    "languages": [
-      "eng",
-      "ssw"
-    ],
+    "languages": ["eng", "ssw"],
     "name": "Swaziland",
     "status": "assigned",
     "provinces": null,
@@ -9779,12 +7574,8 @@
   {
     "alpha2": "TA",
     "alpha3": "",
-    "countryCallingCodes": [
-      "+290"
-    ],
-    "currencies": [
-      "GBP"
-    ],
+    "countryCallingCodes": ["+290"],
+    "currencies": ["GBP"],
     "ioc": "",
     "languages": [],
     "name": "Tristan de Cunha",
@@ -9795,16 +7586,10 @@
   {
     "alpha2": "TC",
     "alpha3": "TCA",
-    "countryCallingCodes": [
-      "+1 649"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1 649"],
+    "currencies": ["USD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Turks And Caicos Islands",
     "status": "assigned",
     "provinces": null,
@@ -9813,17 +7598,10 @@
   {
     "alpha2": "TD",
     "alpha3": "TCD",
-    "countryCallingCodes": [
-      "+235"
-    ],
-    "currencies": [
-      "XAF"
-    ],
+    "countryCallingCodes": ["+235"],
+    "currencies": ["XAF"],
     "ioc": "CHA",
-    "languages": [
-      "ara",
-      "fra"
-    ],
+    "languages": ["ara", "fra"],
     "name": "Chad",
     "status": "assigned",
     "provinces": null,
@@ -9833,13 +7611,9 @@
     "alpha2": "TF",
     "alpha3": "ATF",
     "countryCallingCodes": [],
-    "currencies": [
-      "EUR"
-    ],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "French Southern Territories",
     "status": "assigned",
     "provinces": null,
@@ -9848,16 +7622,10 @@
   {
     "alpha2": "TG",
     "alpha3": "TGO",
-    "countryCallingCodes": [
-      "+228"
-    ],
-    "currencies": [
-      "XOF"
-    ],
+    "countryCallingCodes": ["+228"],
+    "currencies": ["XOF"],
     "ioc": "TOG",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Togo",
     "status": "assigned",
     "provinces": null,
@@ -9866,16 +7634,10 @@
   {
     "alpha2": "TH",
     "alpha3": "THA",
-    "countryCallingCodes": [
-      "+66"
-    ],
-    "currencies": [
-      "THB"
-    ],
+    "countryCallingCodes": ["+66"],
+    "currencies": ["THB"],
     "ioc": "THA",
-    "languages": [
-      "tha"
-    ],
+    "languages": ["tha"],
     "name": "Thailand",
     "status": "assigned",
     "provinces": null,
@@ -9884,17 +7646,10 @@
   {
     "alpha2": "TJ",
     "alpha3": "TJK",
-    "countryCallingCodes": [
-      "+992"
-    ],
-    "currencies": [
-      "TJS"
-    ],
+    "countryCallingCodes": ["+992"],
+    "currencies": ["TJS"],
     "ioc": "TJK",
-    "languages": [
-      "tgk",
-      "rus"
-    ],
+    "languages": ["tgk", "rus"],
     "name": "Tajikistan",
     "status": "assigned",
     "provinces": null,
@@ -9903,16 +7658,10 @@
   {
     "alpha2": "TK",
     "alpha3": "TKL",
-    "countryCallingCodes": [
-      "+690"
-    ],
-    "currencies": [
-      "NZD"
-    ],
+    "countryCallingCodes": ["+690"],
+    "currencies": ["NZD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Tokelau",
     "status": "assigned",
     "provinces": null,
@@ -9921,38 +7670,22 @@
   {
     "alpha2": "TL",
     "alpha3": "TLS",
-    "countryCallingCodes": [
-      "+670"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+670"],
+    "currencies": ["USD"],
     "ioc": "TLS",
-    "languages": [
-      "por"
-    ],
+    "languages": ["por"],
     "name": "East Timor",
     "status": "assigned",
     "provinces": null,
-    "alias": [
-      "Timor-Leste",
-      "Timor Leste"
-    ]
+    "alias": ["Timor-Leste", "Timor Leste"]
   },
   {
     "alpha2": "TM",
     "alpha3": "TKM",
-    "countryCallingCodes": [
-      "+993"
-    ],
-    "currencies": [
-      "TMT"
-    ],
+    "countryCallingCodes": ["+993"],
+    "currencies": ["TMT"],
     "ioc": "TKM",
-    "languages": [
-      "tuk",
-      "rus"
-    ],
+    "languages": ["tuk", "rus"],
     "name": "Turkmenistan",
     "status": "assigned",
     "provinces": null,
@@ -9961,16 +7694,10 @@
   {
     "alpha2": "TN",
     "alpha3": "TUN",
-    "countryCallingCodes": [
-      "+216"
-    ],
-    "currencies": [
-      "TND"
-    ],
+    "countryCallingCodes": ["+216"],
+    "currencies": ["TND"],
     "ioc": "TUN",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Tunisia",
     "status": "assigned",
     "provinces": null,
@@ -9979,16 +7706,10 @@
   {
     "alpha2": "TO",
     "alpha3": "TON",
-    "countryCallingCodes": [
-      "+676"
-    ],
-    "currencies": [
-      "TOP"
-    ],
+    "countryCallingCodes": ["+676"],
+    "currencies": ["TOP"],
     "ioc": "TGA",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Tonga",
     "status": "assigned",
     "provinces": null,
@@ -9997,16 +7718,10 @@
   {
     "alpha2": "TR",
     "alpha3": "TUR",
-    "countryCallingCodes": [
-      "+90"
-    ],
-    "currencies": [
-      "TRY"
-    ],
+    "countryCallingCodes": ["+90"],
+    "currencies": ["TRY"],
     "ioc": "TUR",
-    "languages": [
-      "tur"
-    ],
+    "languages": ["tur"],
     "name": "Turkey",
     "status": "assigned",
     "provinces": [
@@ -10016,9 +7731,7 @@
       },
       {
         "name": "Adıyaman",
-        "alias": [
-          "Adiyaman"
-        ]
+        "alias": ["Adiyaman"]
       },
       {
         "name": "Afyonkarahisar",
@@ -10026,9 +7739,7 @@
       },
       {
         "name": "Ağrı",
-        "alias": [
-          "Agri"
-        ]
+        "alias": ["Agri"]
       },
       {
         "name": "Amasya",
@@ -10048,15 +7759,11 @@
       },
       {
         "name": "Aydın",
-        "alias": [
-          "Aydin"
-        ]
+        "alias": ["Aydin"]
       },
       {
         "name": "Balıkesir",
-        "alias": [
-          "Balikesir"
-        ]
+        "alias": ["Balikesir"]
       },
       {
         "name": "Bilecik",
@@ -10064,9 +7771,7 @@
       },
       {
         "name": "Bingöl",
-        "alias": [
-          "Bingol"
-        ]
+        "alias": ["Bingol"]
       },
       {
         "name": "Bitlis",
@@ -10086,21 +7791,15 @@
       },
       {
         "name": "Çanakkale",
-        "alias": [
-          "Canakkale"
-        ]
+        "alias": ["Canakkale"]
       },
       {
         "name": "Çankırı",
-        "alias": [
-          "Cankiri"
-        ]
+        "alias": ["Cankiri"]
       },
       {
         "name": "Çorum",
-        "alias": [
-          "Corum"
-        ]
+        "alias": ["Corum"]
       },
       {
         "name": "Denizli",
@@ -10108,9 +7807,7 @@
       },
       {
         "name": "Diyarbakır",
-        "alias": [
-          "Diyarbakir"
-        ]
+        "alias": ["Diyarbakir"]
       },
       {
         "name": "Edirne",
@@ -10118,9 +7815,7 @@
       },
       {
         "name": "Elazığ",
-        "alias": [
-          "Elazig"
-        ]
+        "alias": ["Elazig"]
       },
       {
         "name": "Erzincan",
@@ -10132,9 +7827,7 @@
       },
       {
         "name": "Eskişehir",
-        "alias": [
-          "Eskisehir"
-        ]
+        "alias": ["Eskisehir"]
       },
       {
         "name": "Gaziantep",
@@ -10146,15 +7839,11 @@
       },
       {
         "name": "Gümüşhane",
-        "alias": [
-          "Gumushane"
-        ]
+        "alias": ["Gumushane"]
       },
       {
         "name": "Hakkâri",
-        "alias": [
-          "Hakkari"
-        ]
+        "alias": ["Hakkari"]
       },
       {
         "name": "Hatay",
@@ -10174,9 +7863,7 @@
       },
       {
         "name": "İzmir",
-        "alias": [
-          "Izmir"
-        ]
+        "alias": ["Izmir"]
       },
       {
         "name": "Kars",
@@ -10196,9 +7883,7 @@
       },
       {
         "name": "Kırşehir",
-        "alias": [
-          "Kırsehir"
-        ]
+        "alias": ["Kırsehir"]
       },
       {
         "name": "Kocaeli",
@@ -10210,9 +7895,7 @@
       },
       {
         "name": "Kütahya",
-        "alias": [
-          "Kutahya"
-        ]
+        "alias": ["Kutahya"]
       },
       {
         "name": "Malatya",
@@ -10224,9 +7907,7 @@
       },
       {
         "name": "Kahramanmaraş",
-        "alias": [
-          "Kahramanmaras"
-        ]
+        "alias": ["Kahramanmaras"]
       },
       {
         "name": "Mardin",
@@ -10238,21 +7919,15 @@
       },
       {
         "name": "Muş",
-        "alias": [
-          "Mus"
-        ]
+        "alias": ["Mus"]
       },
       {
         "name": "Nevşehir",
-        "alias": [
-          "Nevsehir"
-        ]
+        "alias": ["Nevsehir"]
       },
       {
         "name": "Niğde",
-        "alias": [
-          "Nigde"
-        ]
+        "alias": ["Nigde"]
       },
       {
         "name": "Ordu",
@@ -10284,9 +7959,7 @@
       },
       {
         "name": "Tekirdağ",
-        "alias": [
-          "Tekirdag"
-        ]
+        "alias": ["Tekirdag"]
       },
       {
         "name": "Tokat",
@@ -10302,15 +7975,11 @@
       },
       {
         "name": "Şanlıurfa",
-        "alias": [
-          "Sanliurfa"
-        ]
+        "alias": ["Sanliurfa"]
       },
       {
         "name": "Uşak",
-        "alias": [
-          "Usak"
-        ]
+        "alias": ["Usak"]
       },
       {
         "name": "Van",
@@ -10338,9 +8007,7 @@
       },
       {
         "name": "Kırıkkale",
-        "alias": [
-          "Kirikkale"
-        ]
+        "alias": ["Kirikkale"]
       },
       {
         "name": "Batman",
@@ -10348,15 +8015,11 @@
       },
       {
         "name": "Şırnak",
-        "alias": [
-          "Sirnak"
-        ]
+        "alias": ["Sirnak"]
       },
       {
         "name": "Bartın",
-        "alias": [
-          "Bartin"
-        ]
+        "alias": ["Bartin"]
       },
       {
         "name": "Ardahan",
@@ -10364,9 +8027,7 @@
       },
       {
         "name": "Iğdır",
-        "alias": [
-          "Igdir"
-        ]
+        "alias": ["Igdir"]
       },
       {
         "name": "Yalova",
@@ -10374,9 +8035,7 @@
       },
       {
         "name": "Karabük",
-        "alias": [
-          "Karabuk"
-        ]
+        "alias": ["Karabuk"]
       },
       {
         "name": "Kilis",
@@ -10388,9 +8047,7 @@
       },
       {
         "name": "Düzce",
-        "alias": [
-          "Duzce"
-        ]
+        "alias": ["Duzce"]
       }
     ],
     "alias": null
@@ -10398,16 +8055,10 @@
   {
     "alpha2": "TT",
     "alpha3": "TTO",
-    "countryCallingCodes": [
-      "+1 868"
-    ],
-    "currencies": [
-      "TTD"
-    ],
+    "countryCallingCodes": ["+1 868"],
+    "currencies": ["TTD"],
     "ioc": "TTO",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Trinidad And Tobago",
     "status": "assigned",
     "provinces": null,
@@ -10416,16 +8067,10 @@
   {
     "alpha2": "TV",
     "alpha3": "TUV",
-    "countryCallingCodes": [
-      "+688"
-    ],
-    "currencies": [
-      "AUD"
-    ],
+    "countryCallingCodes": ["+688"],
+    "currencies": ["AUD"],
     "ioc": "TUV",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Tuvalu",
     "status": "assigned",
     "provinces": null,
@@ -10434,16 +8079,10 @@
   {
     "alpha2": "TW",
     "alpha3": "TWN",
-    "countryCallingCodes": [
-      "+886"
-    ],
-    "currencies": [
-      "TWD"
-    ],
+    "countryCallingCodes": ["+886"],
+    "currencies": ["TWD"],
     "ioc": "TPE",
-    "languages": [
-      "zho"
-    ],
+    "languages": ["zho"],
     "name": "Taiwan",
     "status": "assigned",
     "provinces": null,
@@ -10452,17 +8091,10 @@
   {
     "alpha2": "TZ",
     "alpha3": "TZA",
-    "countryCallingCodes": [
-      "+255"
-    ],
-    "currencies": [
-      "TZS"
-    ],
+    "countryCallingCodes": ["+255"],
+    "currencies": ["TZS"],
     "ioc": "TAN",
-    "languages": [
-      "swa",
-      "eng"
-    ],
+    "languages": ["swa", "eng"],
     "name": "Tanzania",
     "status": "assigned",
     "provinces": null,
@@ -10471,17 +8103,10 @@
   {
     "alpha2": "UA",
     "alpha3": "UKR",
-    "countryCallingCodes": [
-      "+380"
-    ],
-    "currencies": [
-      "UAH"
-    ],
+    "countryCallingCodes": ["+380"],
+    "currencies": ["UAH"],
     "ioc": "UKR",
-    "languages": [
-      "ukr",
-      "rus"
-    ],
+    "languages": ["ukr", "rus"],
     "name": "Ukraine",
     "status": "assigned",
     "provinces": null,
@@ -10490,17 +8115,10 @@
   {
     "alpha2": "UG",
     "alpha3": "UGA",
-    "countryCallingCodes": [
-      "+256"
-    ],
-    "currencies": [
-      "UGX"
-    ],
+    "countryCallingCodes": ["+256"],
+    "currencies": ["UGX"],
     "ioc": "UGA",
-    "languages": [
-      "eng",
-      "swa"
-    ],
+    "languages": ["eng", "swa"],
     "name": "Uganda",
     "status": "assigned",
     "provinces": null,
@@ -10509,20 +8127,10 @@
   {
     "alpha2": "GB",
     "alpha3": "GBR",
-    "countryCallingCodes": [
-      "+44"
-    ],
-    "currencies": [
-      "GBP"
-    ],
+    "countryCallingCodes": ["+44"],
+    "currencies": ["GBP"],
     "ioc": "GBR",
-    "languages": [
-      "eng",
-      "cor",
-      "gle",
-      "gla",
-      "cym"
-    ],
+    "languages": ["eng", "cor", "gle", "gla", "cym"],
     "name": "United Kingdom",
     "status": "assigned",
     "provinces": [
@@ -10609,9 +8217,7 @@
       {
         "name": "East Riding of Yorkshire",
         "region": "England",
-        "alias": [
-          "East Yorkshire"
-        ]
+        "alias": ["East Yorkshire"]
       },
       {
         "name": "East Sussex",
@@ -11086,9 +8692,7 @@
       {
         "name": "The Vale of Glamorgan",
         "region": "Wales",
-        "alias": [
-          "The Vale"
-        ]
+        "alias": ["The Vale"]
       },
       {
         "name": "Torfaen",
@@ -11106,16 +8710,10 @@
   {
     "alpha2": "UM",
     "alpha3": "UMI",
-    "countryCallingCodes": [
-      "+1"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1"],
+    "currencies": ["USD"],
     "ioc": "",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "United States Minor Outlying Islands",
     "status": "assigned",
     "provinces": null,
@@ -11124,16 +8722,10 @@
   {
     "alpha2": "US",
     "alpha3": "USA",
-    "countryCallingCodes": [
-      "+1"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1"],
+    "currencies": ["USD"],
     "ioc": "USA",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "United States",
     "status": "assigned",
     "provinces": [
@@ -11391,36 +8983,6 @@
         "short": "WY",
         "name": "Wyoming",
         "alias": null
-      },
-      {
-        "short": "AS",
-        "name": "American Samoa",
-        "alias": null
-      },
-      {
-        "short": "GU",
-        "name": "Guam",
-        "alias": null
-      },
-      {
-        "short": "MP",
-        "name": "Northern Mariana Islands",
-        "alias": null
-      },
-      {
-        "short": "PR",
-        "name": "Puerto Rico",
-        "alias": null
-      },
-      {
-        "short": "UM",
-        "name": "United States Minor Outlying Islands",
-        "alias": null
-      },
-      {
-        "short": "VI",
-        "name": "Virgin Islands",
-        "alias": null
       }
     ],
     "alias": null
@@ -11428,17 +8990,10 @@
   {
     "alpha2": "UY",
     "alpha3": "URY",
-    "countryCallingCodes": [
-      "+598"
-    ],
-    "currencies": [
-      "UYU",
-      "UYI"
-    ],
+    "countryCallingCodes": ["+598"],
+    "currencies": ["UYU", "UYI"],
     "ioc": "URU",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Uruguay",
     "status": "assigned",
     "provinces": null,
@@ -11447,17 +9002,10 @@
   {
     "alpha2": "UZ",
     "alpha3": "UZB",
-    "countryCallingCodes": [
-      "+998"
-    ],
-    "currencies": [
-      "UZS"
-    ],
+    "countryCallingCodes": ["+998"],
+    "currencies": ["UZS"],
     "ioc": "UZB",
-    "languages": [
-      "uzb",
-      "rus"
-    ],
+    "languages": ["uzb", "rus"],
     "name": "Uzbekistan",
     "status": "assigned",
     "provinces": null,
@@ -11466,17 +9014,10 @@
   {
     "alpha2": "VA",
     "alpha3": "VAT",
-    "countryCallingCodes": [
-      "+379",
-      "+39"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+379", "+39"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "ita"
-    ],
+    "languages": ["ita"],
     "name": "Vatican City State",
     "status": "assigned",
     "provinces": null,
@@ -11485,16 +9026,10 @@
   {
     "alpha2": "VC",
     "alpha3": "VCT",
-    "countryCallingCodes": [
-      "+1 784"
-    ],
-    "currencies": [
-      "XCD"
-    ],
+    "countryCallingCodes": ["+1 784"],
+    "currencies": ["XCD"],
     "ioc": "VIN",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Saint Vincent And The Grenadines",
     "status": "assigned",
     "provinces": null,
@@ -11515,16 +9050,10 @@
   {
     "alpha2": "VE",
     "alpha3": "VEN",
-    "countryCallingCodes": [
-      "+58"
-    ],
-    "currencies": [
-      "VEF"
-    ],
+    "countryCallingCodes": ["+58"],
+    "currencies": ["VEF"],
     "ioc": "VEN",
-    "languages": [
-      "spa"
-    ],
+    "languages": ["spa"],
     "name": "Venezuela",
     "status": "assigned",
     "provinces": null,
@@ -11533,16 +9062,10 @@
   {
     "alpha2": "VG",
     "alpha3": "VGB",
-    "countryCallingCodes": [
-      "+1 284"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1 284"],
+    "currencies": ["USD"],
     "ioc": "ISV",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Virgin Islands (British)",
     "status": "assigned",
     "provinces": null,
@@ -11551,16 +9074,10 @@
   {
     "alpha2": "VI",
     "alpha3": "VIR",
-    "countryCallingCodes": [
-      "+1 340"
-    ],
-    "currencies": [
-      "USD"
-    ],
+    "countryCallingCodes": ["+1 340"],
+    "currencies": ["USD"],
     "ioc": "ISV",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Virgin Islands (US)",
     "status": "assigned",
     "provinces": null,
@@ -11569,253 +9086,168 @@
   {
     "alpha2": "VN",
     "alpha3": "VNM",
-    "countryCallingCodes": [
-      "+84"
-    ],
-    "currencies": [
-      "VND"
-    ],
+    "countryCallingCodes": ["+84"],
+    "currencies": ["VND"],
     "ioc": "VIE",
-    "languages": [
-      "vie"
-    ],
+    "languages": ["vie"],
     "name": "Viet Nam",
     "status": "assigned",
     "provinces": [
       {
         "name": "Hà Nội",
-        "alias": [
-          "Ha Noi"
-        ]
+        "alias": ["Ha Noi"]
       },
       {
         "name": "Hà Giang",
-        "alias": [
-          "Ha Giang"
-        ]
+        "alias": ["Ha Giang"]
       },
       {
         "name": "Cao Bằng",
-        "alias": [
-          "Cao Bang"
-        ]
+        "alias": ["Cao Bang"]
       },
       {
         "name": "Bắc Kạn",
-        "alias": [
-          "Bac Kan"
-        ]
+        "alias": ["Bac Kan"]
       },
       {
         "name": "Tuyên Quang",
-        "alias": [
-          "Tuyen Quang"
-        ]
+        "alias": ["Tuyen Quang"]
       },
       {
         "name": "Lào Cai",
-        "alias": [
-          "Lao Cai"
-        ]
+        "alias": ["Lao Cai"]
       },
       {
         "name": "Điện Biên",
-        "alias": [
-          "Dien Bien"
-        ]
+        "alias": ["Dien Bien"]
       },
       {
         "name": "Lai Châu",
-        "alias": [
-          "Lai Chau"
-        ]
+        "alias": ["Lai Chau"]
       },
       {
         "name": "Sơn La",
-        "alias": [
-          "Son La"
-        ]
+        "alias": ["Son La"]
       },
       {
         "name": "Yên Bái",
-        "alias": [
-          "Yen Bai"
-        ]
+        "alias": ["Yen Bai"]
       },
       {
         "name": "Hòa Bình",
-        "alias": [
-          "Hoa Binh"
-        ]
+        "alias": ["Hoa Binh"]
       },
       {
         "name": "Thái Nguyên",
-        "alias": [
-          "Thai Nguyen"
-        ]
+        "alias": ["Thai Nguyen"]
       },
       {
         "name": "Lạng Sơn",
-        "alias": [
-          "Lang Son"
-        ]
+        "alias": ["Lang Son"]
       },
       {
         "name": "Quảng Ninh",
-        "alias": [
-          "Quang Ninh"
-        ]
+        "alias": ["Quang Ninh"]
       },
       {
         "name": "Bắc Giang",
-        "alias": [
-          "Bac Giang"
-        ]
+        "alias": ["Bac Giang"]
       },
       {
         "name": "Phú Thọ",
-        "alias": [
-          "Phu Tho"
-        ]
+        "alias": ["Phu Tho"]
       },
       {
         "name": "Vĩnh Phúc",
-        "alias": [
-          "Vinh Phuc"
-        ]
+        "alias": ["Vinh Phuc"]
       },
       {
         "name": "Bắc Ninh",
-        "alias": [
-          "Bac Ninh"
-        ]
+        "alias": ["Bac Ninh"]
       },
       {
         "name": "Hải Dương",
-        "alias": [
-          "Hai Duong"
-        ]
+        "alias": ["Hai Duong"]
       },
       {
         "name": "Hải Phòng",
-        "alias": [
-          "Hai Phong"
-        ]
+        "alias": ["Hai Phong"]
       },
       {
         "name": "Hưng Yên",
-        "alias": [
-          "Hung Yen"
-        ]
+        "alias": ["Hung Yen"]
       },
       {
         "name": "Thái Bình",
-        "alias": [
-          "Thai Binh"
-        ]
+        "alias": ["Thai Binh"]
       },
       {
         "name": "Hà Nam",
-        "alias": [
-          "Ha Nam"
-        ]
+        "alias": ["Ha Nam"]
       },
       {
         "name": "Nam Định",
-        "alias": [
-          "Nam Dinh"
-        ]
+        "alias": ["Nam Dinh"]
       },
       {
         "name": "Ninh Bình",
-        "alias": [
-          "Ninh Binh"
-        ]
+        "alias": ["Ninh Binh"]
       },
       {
         "name": "Thanh Hóa",
-        "alias": [
-          "Thanh Hoa"
-        ]
+        "alias": ["Thanh Hoa"]
       },
       {
         "name": "Nghệ An",
-        "alias": [
-          "Nghe An"
-        ]
+        "alias": ["Nghe An"]
       },
       {
         "name": "Hà Tĩnh",
-        "alias": [
-          "Ha Tinh"
-        ]
+        "alias": ["Ha Tinh"]
       },
       {
         "name": "Quảng Bình",
-        "alias": [
-          "Quang Binh"
-        ]
+        "alias": ["Quang Binh"]
       },
       {
         "name": "Quảng Trị",
-        "alias": [
-          "Quang Tri"
-        ]
+        "alias": ["Quang Tri"]
       },
       {
         "name": "Thừa Thiên–Huế",
-        "alias": [
-          "Thua Thien–Hue",
-          "Thua Thien Hue"
-        ]
+        "alias": ["Thua Thien–Hue", "Thua Thien Hue"]
       },
       {
         "name": "Đà Nẵng",
-        "alias": [
-          "Da Nang"
-        ]
+        "alias": ["Da Nang"]
       },
       {
         "name": "Quảng Nam",
-        "alias": [
-          "Quang Nam"
-        ]
+        "alias": ["Quang Nam"]
       },
       {
         "name": "Quảng Ngãi",
-        "alias": [
-          "Quang Ngai"
-        ]
+        "alias": ["Quang Ngai"]
       },
       {
         "name": "Bình Định",
-        "alias": [
-          "Binh Dinh"
-        ]
+        "alias": ["Binh Dinh"]
       },
       {
         "name": "Phú Yên",
-        "alias": [
-          "Phu Yen"
-        ]
+        "alias": ["Phu Yen"]
       },
       {
         "name": "Khánh Hòa",
-        "alias": [
-          "Khanh Hoa"
-        ]
+        "alias": ["Khanh Hoa"]
       },
       {
         "name": "Ninh Thuận",
-        "alias": [
-          "Ninh Thuan"
-        ]
+        "alias": ["Ninh Thuan"]
       },
       {
         "name": "Bình Thuận",
-        "alias": [
-          "Binh Thuan"
-        ]
+        "alias": ["Binh Thuan"]
       },
       {
         "name": "Kon Tum",
@@ -11827,21 +9259,15 @@
       },
       {
         "name": "Đắk Lắk",
-        "alias": [
-          "Dak Lak"
-        ]
+        "alias": ["Dak Lak"]
       },
       {
         "name": "Đắk Nông",
-        "alias": [
-          "Dak Nong"
-        ]
+        "alias": ["Dak Nong"]
       },
       {
         "name": "Lâm Đồng",
-        "alias": [
-          "Lam Dong"
-        ]
+        "alias": ["Lam Dong"]
       },
       {
         "name": "Bình Phước",
@@ -11849,34 +9275,23 @@
       },
       {
         "name": "Tây Ninh",
-        "alias": [
-          "Tay Ninh"
-        ]
+        "alias": ["Tay Ninh"]
       },
       {
         "name": "Bình Dương",
-        "alias": [
-          "Binh Duong"
-        ]
+        "alias": ["Binh Duong"]
       },
       {
         "name": "Đồng Nai",
-        "alias": [
-          "Dong Nai"
-        ]
+        "alias": ["Dong Nai"]
       },
       {
         "name": "Bà Rịa–Vũng Tàu",
-        "alias": [
-          "Ba Ria–Vung Tau",
-          "Ba Ria Vung Tau"
-        ]
+        "alias": ["Ba Ria–Vung Tau", "Ba Ria Vung Tau"]
       },
       {
         "name": "Thành phố Hồ Chí Minh",
-        "alias": [
-          "Thanh pho Ho Chi Minh"
-        ]
+        "alias": ["Thanh pho Ho Chi Minh"]
       },
       {
         "name": "Long An",
@@ -11884,33 +9299,23 @@
       },
       {
         "name": "Tiền Giang",
-        "alias": [
-          "Tien Giang"
-        ]
+        "alias": ["Tien Giang"]
       },
       {
         "name": "Bến Tre",
-        "alias": [
-          "Ben Tre"
-        ]
+        "alias": ["Ben Tre"]
       },
       {
         "name": "Trà Vinh",
-        "alias": [
-          "Tra Vinh"
-        ]
+        "alias": ["Tra Vinh"]
       },
       {
         "name": "Vĩnh Long",
-        "alias": [
-          "Vinh Long"
-        ]
+        "alias": ["Vinh Long"]
       },
       {
         "name": "Đồng Tháp",
-        "alias": [
-          "Dong Thap"
-        ]
+        "alias": ["Dong Thap"]
       },
       {
         "name": "An Giang",
@@ -11918,60 +9323,38 @@
       },
       {
         "name": "Kiên Giang",
-        "alias": [
-          "Kien Giang"
-        ]
+        "alias": ["Kien Giang"]
       },
       {
         "name": "Cần Thơ",
-        "alias": [
-          "Can Thơ"
-        ]
+        "alias": ["Can Thơ"]
       },
       {
         "name": "Hậu Giang",
-        "alias": [
-          "Hau Giang"
-        ]
+        "alias": ["Hau Giang"]
       },
       {
         "name": "Sóc Trăng",
-        "alias": [
-          "Soc Trang"
-        ]
+        "alias": ["Soc Trang"]
       },
       {
         "name": "Bạc Liêu",
-        "alias": [
-          "Bac Lieu"
-        ]
+        "alias": ["Bac Lieu"]
       },
       {
         "name": "Cà Mau",
-        "alias": [
-          "Ca Mau"
-        ]
+        "alias": ["Ca Mau"]
       }
     ],
-    "alias": [
-      "Vietnam"
-    ]
+    "alias": ["Vietnam"]
   },
   {
     "alpha2": "VU",
     "alpha3": "VUT",
-    "countryCallingCodes": [
-      "+678"
-    ],
-    "currencies": [
-      "VUV"
-    ],
+    "countryCallingCodes": ["+678"],
+    "currencies": ["VUV"],
     "ioc": "VAN",
-    "languages": [
-      "bis",
-      "eng",
-      "fra"
-    ],
+    "languages": ["bis", "eng", "fra"],
     "name": "Vanuatu",
     "status": "assigned",
     "provinces": null,
@@ -11980,16 +9363,10 @@
   {
     "alpha2": "WF",
     "alpha3": "WLF",
-    "countryCallingCodes": [
-      "+681"
-    ],
-    "currencies": [
-      "XPF"
-    ],
+    "countryCallingCodes": ["+681"],
+    "currencies": ["XPF"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Wallis And Futuna",
     "status": "assigned",
     "provinces": null,
@@ -12010,17 +9387,10 @@
   {
     "alpha2": "WS",
     "alpha3": "WSM",
-    "countryCallingCodes": [
-      "+685"
-    ],
-    "currencies": [
-      "WST"
-    ],
+    "countryCallingCodes": ["+685"],
+    "currencies": ["WST"],
     "ioc": "SAM",
-    "languages": [
-      "eng",
-      "smo"
-    ],
+    "languages": ["eng", "smo"],
     "name": "Samoa",
     "status": "assigned",
     "provinces": null,
@@ -12029,20 +9399,10 @@
   {
     "alpha2": "XK",
     "alpha3": "",
-    "countryCallingCodes": [
-      "+383"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+383"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "sqi",
-      "srp",
-      "bos",
-      "tur",
-      "rom"
-    ],
+    "languages": ["sqi", "srp", "bos", "tur", "rom"],
     "name": "Kosovo",
     "status": "user assigned",
     "provinces": null,
@@ -12063,16 +9423,10 @@
   {
     "alpha2": "YE",
     "alpha3": "YEM",
-    "countryCallingCodes": [
-      "+967"
-    ],
-    "currencies": [
-      "YER"
-    ],
+    "countryCallingCodes": ["+967"],
+    "currencies": ["YER"],
     "ioc": "YEM",
-    "languages": [
-      "ara"
-    ],
+    "languages": ["ara"],
     "name": "Yemen",
     "status": "assigned",
     "provinces": null,
@@ -12081,16 +9435,10 @@
   {
     "alpha2": "YT",
     "alpha3": "MYT",
-    "countryCallingCodes": [
-      "+262"
-    ],
-    "currencies": [
-      "EUR"
-    ],
+    "countryCallingCodes": ["+262"],
+    "currencies": ["EUR"],
     "ioc": "",
-    "languages": [
-      "fra"
-    ],
+    "languages": ["fra"],
     "name": "Mayotte",
     "status": "assigned",
     "provinces": null,
@@ -12111,23 +9459,10 @@
   {
     "alpha2": "ZA",
     "alpha3": "ZAF",
-    "countryCallingCodes": [
-      "+27"
-    ],
-    "currencies": [
-      "ZAR"
-    ],
+    "countryCallingCodes": ["+27"],
+    "currencies": ["ZAR"],
     "ioc": "RSA",
-    "languages": [
-      "afr",
-      "eng",
-      "nbl",
-      "som",
-      "tso",
-      "ven",
-      "xho",
-      "zul"
-    ],
+    "languages": ["afr", "eng", "nbl", "som", "tso", "ven", "xho", "zul"],
     "name": "South Africa",
     "status": "assigned",
     "provinces": null,
@@ -12136,16 +9471,10 @@
   {
     "alpha2": "ZM",
     "alpha3": "ZMB",
-    "countryCallingCodes": [
-      "+260"
-    ],
-    "currencies": [
-      "ZMW"
-    ],
+    "countryCallingCodes": ["+260"],
+    "currencies": ["ZMW"],
     "ioc": "ZAM",
-    "languages": [
-      "eng"
-    ],
+    "languages": ["eng"],
     "name": "Zambia",
     "status": "assigned",
     "provinces": null,
@@ -12166,22 +9495,10 @@
   {
     "alpha2": "ZW",
     "alpha3": "ZWE",
-    "countryCallingCodes": [
-      "+263"
-    ],
-    "currencies": [
-      "USD",
-      "ZAR",
-      "BWP",
-      "GBP",
-      "EUR"
-    ],
+    "countryCallingCodes": ["+263"],
+    "currencies": ["USD", "ZAR", "BWP", "GBP", "EUR"],
     "ioc": "ZIM",
-    "languages": [
-      "eng",
-      "sna",
-      "nde"
-    ],
+    "languages": ["eng", "sna", "nde"],
     "name": "Zimbabwe",
     "status": "assigned",
     "provinces": null,
